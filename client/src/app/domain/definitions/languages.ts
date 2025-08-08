@@ -7,7 +7,6 @@ export const availableTranslations = {
     it: `Italiano`,
     es: `Español`,
     nl: `Nederlands`,
-    ba: `Bosanski`
 };
 
 export const allAvailableTranslations = {
