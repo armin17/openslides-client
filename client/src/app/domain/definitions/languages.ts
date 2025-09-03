@@ -1,6 +1,6 @@
 export const availableTranslations = {
     en: `English`,
-    ba: `BOS-HR-SR`,
+    ru: `BOS-HR-SR`,
     de: `Deutsch`,
     cs: `Čeština`,
     fr: `Français`,
