@@ -33,7 +33,7 @@ export abstract class BaseComponent extends BaseUiComponent implements OnDestroy
      *
      * Might be a config variable later at some point
      */
-    private titleSuffix = ` - OpenSlides`;
+    private titleSuffix = ` - e-sjednice`;
 
     /**
      * Holds the coordinates where a swipe gesture was used
