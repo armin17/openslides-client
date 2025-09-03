@@ -3,8 +3,8 @@ import { MediaManageService } from 'src/app/site/pages/meetings/services/media-m
 import { ThemeService } from 'src/app/site/services/theme.service';
 import { BaseUiComponent } from 'src/app/ui/base/base-ui-component';
 
-const DEFAULT_LOGO = `/assets/img/openslides-logo.svg`;
-const DEFAULT_LOGO_DARK_THEME = `/assets/img/openslides-logo-dark.svg`;
+const DEFAULT_LOGO = `/assets/img/esjednice-logo.png`;
+const DEFAULT_LOGO_DARK_THEME = `/assets/img/esjednice-logo-dark.png`;
 
 @Component({
     selector: `os-logo`,
