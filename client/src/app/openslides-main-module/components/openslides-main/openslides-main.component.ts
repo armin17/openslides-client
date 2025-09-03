@@ -31,7 +31,7 @@ const CURRENT_LANGUAGE_STORAGE_KEY = `currentLanguage`;
 export class OpenSlidesMainComponent implements OnInit {
     private onInitDone = new Deferred();
 
-    public title = `OpenSlides`;
+    public title = `e-sjednice`;
 
     public constructor(
         @Inject(DOCUMENT) private document: Document,
