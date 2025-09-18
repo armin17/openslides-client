@@ -1,12 +1,6 @@
 export const availableTranslations = {
     en: `English`,
-    ru: `BOS-HR-SR`,
-    de: `Deutsch`,
-    cs: `Čeština`,
-    fr: `Français`,
-    it: `Italiano`,
-    es: `Español`,
-    nl: `Nederlands`,
+    bs: `BOS-HR-SR`,
 };
 
 export const allAvailableTranslations = {
