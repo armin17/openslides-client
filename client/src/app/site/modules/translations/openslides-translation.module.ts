@@ -19,7 +19,7 @@ import { PruningTranslationLoader } from './translation-pruning-loader';
 export class OpenSlidesTranslationModule {
     public static forRoot(): ModuleWithProviders<TranslateModule> {
         return TranslateModule.forRoot({
-            defaultLanguage: `en`,
+            defaultLanguage: `bs`,
             loader: {
                 provide: TranslateLoader,
                 useClass: PruningTranslationLoader,
