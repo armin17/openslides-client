@@ -36,7 +36,7 @@ export class OpenSlidesTranslationModule {
     // no config store for child.
     public static forChild(): ModuleWithProviders<TranslateModule> {
         return TranslateModule.forChild({
-            defaultLanguage: `en`,
+            defaultLanguage: `bs`,
             loader: {
                 provide: TranslateLoader,
                 useClass: PruningTranslationLoader,
