@@ -1,0 +1,6359 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"mime-version: 1.0\n"
+
+msgid "\"0\" means an unlimited number of active accounts"
+msgstr "\"0\" znači neograničen broj aktivnih računa"
+
+msgid "\"0\" means an unlimited number of active meetings"
+msgstr "\"0\" znači neograničen broj aktivnih sastanaka"
+
+msgid "%num% emails were send sucessfully."
+msgstr "%num% e-poruka je uspješno poslano."
+
+msgid ""
+"%num% participants could not be locked out because they have administrative "
+"permissions."
+msgstr ""
+"%num% učesnika nisu mogli biti zaključani jer imaju administrativne "
+"dozvole."
+
+msgid "-Ä"
+msgstr "-Ä"
+
+msgid "100% base"
+msgstr "100% baza"
+
+msgid ""
+"<a href=\"https://openslides.com\">OpenSlides</a> is a free web based "
+"presentation and assembly system for visualizing and controlling agenda, "
+"motions and elections of an assembly."
+msgstr ""
+"<a href = \"https://e-sjednice.com\"> E-Sjednice </a> je  web "
+"aplikacija i montažni sustav za vizualizaciju i kontrolu dnevnog reda, "
+"prijedloga i izbore skupštine."
+
+msgid "<unknown motion>"
+msgstr "<Nepoznat prijedlog-zahtjev>"
+
+msgid "<unknown>"
+msgstr "<Nepoznato>"
+
+msgid "A client error occurred. Please contact your system administrator."
+msgstr "Došlo je do greške na klijentu.Molimo kontaktirajte svog administratora sistema."
+
+
+msgid "A conference is already running in your OpenSlides session."
+msgstr "Konferencija je već pokrenuta u vašoj sesiji E-Sjednice."
+
+msgid "A name is required"
+msgstr "Potrebno je ime"
+
+msgid "A new update is available!"
+msgstr "Dostupno je novo ažuriranje!"
+
+msgid "A password is required"
+msgstr "Potrebna je lozinka"
+
+msgid "A server error occured. Please contact your system administrator."
+msgstr "Došlo je do greške servera.Molimo kontaktirajte svog administratora sistema."
+
+msgid "A time is required and must be in min:secs format."
+msgstr "Potrebno je vrijeme i mora biti u min: SECS formatu."
+
+msgid "A title is required"
+msgstr "Potreban je naslov"
+
+msgid "A topic needs a title"
+msgstr "Tema treba naslov"
+
+msgid ""
+"A user with the username '%username%' and the first name '%first_name%' was "
+"created."
+msgstr ""
+"Korisnik sa korisničkim imenom '%username%' i imenom '%first_name%' stvoren je."
+
+msgid "About me"
+msgstr "O meni"
+
+msgid "Abstain"
+msgstr "Suzdržan"
+
+msgid "Accent color"
+msgstr "Accent boja"
+
+msgid "Accept"
+msgstr "Prihvati"
+
+msgid "Access data (PDF)"
+msgstr "Pristup podacima (PDF)"
+
+msgid ""
+"Access only possible for participants of this meeting. All other accounts "
+"(including organization and committee admins) may not open the closed "
+"meeting. It is locked from the inside."
+msgstr ""
+"Pristup je moguć samo učesnicima ovog sastanka.Svi ostali računi "
+"(uključujući organizaciju i administracije odbora) ne mogu otvoriti "
+"zatvoreni sastanak.Zaključano je iznutra."
+
+msgid "Access-data"
+msgstr "Pristup podaci"
+
+msgid "Account"
+msgstr "Račun"
+
+msgid "Account admin"
+msgstr "Admin račun"
+
+msgid "Account created"
+msgstr "Napravljen račun"
+
+msgid "Account successfully added."
+msgstr "Račun je uspješno dodan."
+
+msgid "Accounts"
+msgstr "Računi"
+
+msgid "Accounts created"
+msgstr "Kreirani računi"
+
+msgid "Accounts updated"
+msgstr "Ažurirani računi"
+
+msgid "Accounts with errors"
+msgstr "Računi sa greškama"
+
+msgid "Accounts with warnings: affected cells will be skipped"
+msgstr "Računi sa upozorenjima: pogođene ćelije će biti preskočene"
+
+msgid "Action not possible. You have to be part of the meeting."
+msgstr "Akcija nije moguća.Morate biti dio sastanka."
+
+msgid "Activate"
+msgstr "Aktivirati"
+
+msgid "Activate amendments"
+msgstr "Aktivirajte amandmane"
+
+msgid "Activate backtracking"
+msgstr "Aktiviraj praćenje unatrag"
+
+msgid "Activate closed meeting"
+msgstr "Aktivirajte zatvoreni sastanak"
+
+msgid "Activate design"
+msgstr "Aktivirajte dizajn"
+
+msgid "Activate public access"
+msgstr "Aktivirajte javni pristup"
+
+msgid "Activate submitter extension field in motion create form"
+msgstr "Aktiviraj polje za proširenje pošiljatelja u obrascu za kreiranje amandmana"
+
+msgid "Activate the selection field 'motion editor'"
+msgstr "Aktivirajte odabir polja 'Uređivač prijedloga-zahtjeva'"
+
+msgid "Activate the selection field 'spokesperson'"
+msgstr "Aktiviranje odabrano polje 'glasnogovornik'"
+
+msgid "Activate vote delegations"
+msgstr "Aktivirajte delegaciju glasova"
+
+msgid "Activate vote weight"
+msgstr "Aktivirajte težinu glasa"
+
+msgid ""
+"Activates the automatic logging of the date and time when this state was "
+"first reached. A set time stamp cannot be removed."
+msgstr ""
+"Aktivira automatsku prijavu datuma i vremena kada je prvo došlo do ovog "
+"statusa.Podesni vremenski marker ne može se ukloniti."
+
+msgid ""
+"Activates the automatic setting of a number for motions that reach this "
+"state. The scheme for numbering can be customized under > [Settings] > "
+"[Motions]."
+msgstr ""
+"Aktivira automatsko postavljanje broja za prijedloge koji dostignu ovo stanje "
+".Shema za numeriranje može se prilagoditi> [Podešavanja]> [Amandmani]."
+
+msgid ""
+"Activates the extension field for the selected state, which can be filled with free text as desired.\n"
+"\n"
+"Example: When activated, the state \"in progress\" can be expanded to e.g. \"in progress by the motion committee\"."
+msgstr ""
+"Aktivira dodatno polje za odabrano stanje koje se može popuniti slobodnim tekstom po želji.\n"
+"\n"
+"Primjer: Kada se aktivira, stanje \"u toku\" može se proširiti na npr.\"U toku Odbora za amandmane\"."
+
+msgid ""
+"Activates the extension field of the recommendation in this state, which can"
+" be filled with free text or extended with references to other motions or "
+"committees as desired."
+msgstr ""
+"Aktivira polje za proširenje preporuke u ovom stanju, što može biti popunjeno "
+"slobodnim tekstom ili proširiti s referencama na druge prijedloge ili "
+"odbore po želji."
+
+msgid "Active"
+msgstr "Aktivan"
+
+msgid "Active accounts"
+msgstr "Aktivni računi"
+
+msgid "Active filters"
+msgstr "Aktivni filteri"
+
+msgid "Active meetings"
+msgstr "Aktivni sastanci"
+
+msgid "Add"
+msgstr "Dodajte"
+
+msgid "Add me"
+msgstr "Dodaj me"
+
+msgid "Add message"
+msgstr "Dodajte poruku"
+
+msgid "Add new custom translation"
+msgstr "Dodajte novi prilagođeni prijevod"
+
+msgid "Add new entry"
+msgstr "Dodajte novi unos"
+
+msgid "Add option"
+msgstr "Dodajte opciju"
+
+msgid "Add timer"
+msgstr "Dodajte tajmer"
+
+msgid "Add to agenda"
+msgstr "Dodaj u dnevni red"
+
+msgid "Add to meetings"
+msgstr "Dodaj u sastanke"
+
+msgid "Add to queue"
+msgstr "Dodaj u red"
+
+msgid "Add up"
+msgstr "Dodati"
+
+msgid "Add yourself to the current list of speakers to join the conference"
+msgstr ""
+"Dodajte sebe na popis govornika da biste se pridružili konferenciji"
+
+msgid "Add/remove groups ..."
+msgstr "Dodajte / uklonite grupe ..."
+
+msgid "Add/remove structure levels ..."
+msgstr "Dodavanje / uklanjanje nivoa strukture ..."
+
+msgid "Add/subtract"
+msgstr "Dodaj / oduzmi"
+
+msgid ""
+"Additional columns after the required ones may be present and will not "
+"affect the import."
+msgstr ""
+"Dodatni stupci nakon obaveznih mogu biti prisutni i neće utjecati na uvoz."
+
+msgid "Administration roles"
+msgstr "Uloge administracije"
+
+msgid "Administration roles (at organization level)"
+msgstr "Uloge administracije (na nivou organizacije)"
+
+msgid "Administrators"
+msgstr "Administratori"
+
+msgid "After verifying the preview click on \"import\" please (see top right)."
+msgstr ""
+"Nakon provjere pregleda kliknite na \"uvoz\", molim (pogledajte Top desno)."
+
+msgid ""
+"Afterwards you may be unable to regain your status in this meeting on your "
+"own. Are you sure you want to do this?"
+msgstr ""
+"Nakon toga možda ne možete sami povratiti svoj status na ovom sastanku."
+" Jeste li sigurni da to želite učiniti?"
+
+msgid "Agenda"
+msgstr "Dnevni red"
+
+msgid "Agenda items are in process. Please wait ..."
+msgstr "Stavke dnevnog reda su u procesu.Molimo pričekajte ..."
+
+msgid "Agenda visibility"
+msgstr "Vidljivost dnevnog reda"
+
+msgid "Align"
+msgstr "Poravnati"
+
+msgid "All"
+msgstr "Sve"
+
+msgid "All casted ballots"
+msgstr "Svi ubačeni glasački listići"
+
+msgid "All changes of this settings group will be lost!"
+msgstr "Sve promjene ove grupe postavki bit će izgubljene!"
+
+msgid "All entitled users"
+msgstr "Svi korisnici s pravom pristupa"
+
+msgid "All lists of speakers will be cleared."
+msgstr "Sve liste govornika biće očišćene."
+
+msgid "All meetings"
+msgstr "Svi sastanci"
+
+msgid "All other fields are optional and may be empty."
+msgstr "Sva ostala polja nisu obavezna i mogu biti prazna."
+
+msgid "All structure levels"
+msgstr "Svi nivoi strukture"
+
+msgid "All topics will be deleted and won't be accessible afterwards."
+msgstr "Sve će se teme izbrisati i neće biti dostupne nakon toga."
+
+msgid "All valid ballots"
+msgstr "Svi važeći glasački listići"
+
+msgid "All votes will be lost."
+msgstr "Svi će glasovi biti izgubljeni."
+
+msgid "Allow amendments of amendments"
+msgstr "Dopusti izmjene amandmana"
+
+msgid "Allow backtracking of forwarded motions"
+msgstr "Dopustite  povratak proslijeđenih prijedloga-zahtjeva"
+
+msgid "Allow blank in number"
+msgstr "Dopustite prazno u broju"
+
+msgid "Allow create poll"
+msgstr "Dopusti kreiranje ankete"
+
+msgid "Allow forwarding of amendments"
+msgstr "Dopusti prosljeđivanje amandmana"
+
+msgid "Allow forwarding of motions"
+msgstr "Dopusti prosljeđivanje prijedloga-zahtjeva"
+
+msgid "Allow one participant multiple times on the same list"
+msgstr "Dopustite jednom učesniku više puta na istoj listi"
+
+msgid ""
+"Allow only current speakers and list of speakers managers to enter the live "
+"conference"
+msgstr ""
+"Dopustite samo trenutnim govornicima i popisu menadžera govornika da uđu u "
+"konferenciju uživo"
+
+msgid "Allow submitter edit"
+msgstr "Dozvoli uređivanje pošiljatelju"
+
+msgid "Allow support"
+msgstr "Dopustite podršku"
+
+msgid "Allow to accumulate several votes on one candidate (\"comulative voting\")"
+msgstr ""
+"Omogućite da akumulirate nekoliko glasova o jednom kandidatu (\"Komulativno "
+"glasanje\")"
+
+msgid "Allow users to set themselves as present"
+msgstr "Dopustite korisnicima da se postave kao prisutni"
+
+msgid "Allow verbose error messages for reset password process"
+msgstr "Dozvoli detaljne poruke o grešci za proces resetiranja lozinke"
+
+msgid "Allowed access groups for this directory"
+msgstr "Dozvoljene pristupne grupe za ovaj direktorij"
+
+msgid "Allows single votes projection during voting process"
+msgstr "Omogućuje projekciju pojedinačnim glasovima tokom procesa glasanja"
+
+msgid "Always"
+msgstr "Uvijek"
+
+msgid "Amendment"
+msgstr "Amandman"
+
+msgid "Amendment list (PDF)"
+msgstr "Lista amandmana (PDF)"
+
+msgid "Amendment text"
+msgstr "Tekst amandmana"
+
+msgid "Amendment to"
+msgstr "Amandman na"
+
+msgid "Amendments"
+msgstr "Amandmani"
+
+msgid "Amendments can change multiple paragraphs"
+msgstr "Izmjene i dopune mogu promijeniti više odlomaka"
+
+msgid "Amendments to"
+msgstr "Amandmani na"
+
+msgid "Amount of accounts"
+msgstr "Broj računa"
+
+msgid "Amount of meetings"
+msgstr "Broj sastanka"
+
+msgid "Amount of votes"
+msgstr "Broj glasova"
+
+msgid "An error occurred while voting."
+msgstr "Došlo je do pogreške prilikom glasanja."
+
+msgid "An unknown error occurred."
+msgstr "Došlo je do nepoznate greške."
+
+msgid "Anonymize votes"
+msgstr "Anonimizirajte glasove"
+
+msgid "Anonymizing can only be done after finishing a poll."
+msgstr "Anonimnost se može obaviti samo nakon završetka ankete."
+
+msgid "Anonymous"
+msgstr "Anonimni"
+
+msgid "Applause interval in seconds"
+msgstr "Aplauz interval u sekundi"
+
+msgid "Applause particle image URL"
+msgstr "URL slike  aplauza"
+
+msgid "Applause visualization"
+msgstr "Aplauz vizualizacija"
+
+msgid "Application update in progress."
+msgstr "Ažuriranje aplikacije u toku."
+
+msgid "Apply"
+msgstr "Primijeniti"
+
+msgid "Arabic"
+msgstr "Arapski"
+
+msgid "Archive"
+msgstr "Arhiva"
+
+msgid "Archived"
+msgstr "Arhiviran"
+
+msgid "Archived meetings"
+msgstr "Arhivirani sastanci"
+
+msgid ""
+"Are you sure you want to activate this color set? This will change the "
+"colors in all meetings."
+msgstr ""
+"Jeste li sigurni da želite aktivirati ovaj set boja? Ovo će promijeniti "
+"boje u svim sjednicama."
+
+msgid "Are you sure you want to activate this meeting?"
+msgstr "Jeste li sigurni da želite aktivirati ovaj sastanak?"
+
+msgid ""
+"Are you sure you want to add the following time onto every structure level?"
+msgstr ""
+"Jeste li sigurni da želite dodati sljedeće vrijeme na svaki nivo strukture?"
+
+msgid "Are you sure you want to anonymize all votes? This cannot be undone."
+msgstr ""
+"Jeste li sigurni da želite anonimizirati sve glasove?To se ne može "
+"poništiti."
+
+msgid "Are you sure you want to archive this meeting?"
+msgstr "Jeste li sigurni da želite arhivirati ovaj sastanak?"
+
+msgid "Are you sure you want to clear all messages in this chat?"
+msgstr "Jeste li sigurni da želite očistiti sve poruke u ovom chatu?"
+
+msgid "Are you sure you want to clear all speakers of all lists?"
+msgstr "Jeste li sigurni da želite očistiti sve govornike svih lista?"
+
+msgid ""
+"Are you sure you want to delete all next speakers from this list of "
+"speakers?"
+msgstr ""
+"Jeste li sigurni da želite izbrisati sve sljedeće govornike s ove liste "
+"govornika?"
+
+msgid ""
+"Are you sure you want to delete all previous speakers from this list of "
+"speakers?"
+msgstr ""
+"Jeste li sigurni da želite izbrisati sve prethodne govornike s ove liste "
+"govornika?"
+
+msgid "Are you sure you want to delete all selected elections?"
+msgstr "Jeste li sigurni da želite izbrisati sve odabrane izbore?"
+
+msgid "Are you sure you want to delete all selected files and folders?"
+msgstr "Jeste li sigurni da želite izbrisati sve odabrane datoteke i mape?"
+
+msgid "Are you sure you want to delete all selected genders?"
+msgstr "Jeste li sigurni da želite izbrisati sve odabrane spolove?"
+
+msgid "Are you sure you want to delete all selected meetings?"
+msgstr "Jeste li sigurni da želite izbrisati sve odabrane sastanke?"
+
+msgid "Are you sure you want to delete all selected motions?"
+msgstr "Jeste li sigurni da želite izbrisati sve odabrane prijedloge-zahtjeve?"
+
+msgid "Are you sure you want to delete all selected tags?"
+msgstr "Jeste li sigurni da želite izbrisati sve odabrane oznake?"
+
+msgid ""
+"Are you sure you want to delete all speakers from this list of speakers?"
+msgstr ""
+"Jeste li sigurni da želite izbrisati sve govornike s ove liste govornika?"
+
+msgid "Are you sure you want to delete the editorial final version?"
+msgstr "Jeste li sigurni da želite izbrisati uredničku konačnu verziju?"
+
+msgid "Are you sure you want to delete these accounts?"
+msgstr "Jeste li sigurni da želite izbrisati ove račune?"
+
+msgid "Are you sure you want to delete this account?"
+msgstr "Jeste li sigurni da želite izbrisati ovaj račun?"
+
+msgid "Are you sure you want to delete this category and all subcategories?"
+msgstr ""
+"Jeste li sigurni da želite izbrisati ovu kategoriju i sve podkategorije?"
+
+msgid "Are you sure you want to delete this change recommendation?"
+msgstr "Jeste li sigurni da želite izbrisati ovu promjenu preporuke?"
+
+msgid "Are you sure you want to delete this chat group?"
+msgstr "Jeste li sigurni da želite izbrisati ovu chat grupu?"
+
+msgid "Are you sure you want to delete this comment field?"
+msgstr "Jeste li sigurni da želite izbrisati polje ovog komentara?"
+
+msgid "Are you sure you want to delete this committee?"
+msgstr "Jeste li sigurni da želite izbrisati ovaj odbor?"
+
+msgid "Are you sure you want to delete this countdown?"
+msgstr "Jeste li sigurni da želite izbrisati ovo odbrojavanje?"
+
+msgid "Are you sure you want to delete this election?"
+msgstr "Jeste li sigurni da želite izbrisati ovaj izbor?"
+
+msgid "Are you sure you want to delete this entry?"
+msgstr "Jeste li sigurni da želite izbrisati ovaj unos?"
+
+msgid "Are you sure you want to delete this file?"
+msgstr "Jeste li sigurni da želite izbrisati ovu datoteku?"
+
+msgid "Are you sure you want to delete this gender?"
+msgstr "Jeste li sigurni da želite izbrisati ovaj spol?"
+
+msgid "Are you sure you want to delete this group?"
+msgstr "Jeste li sigurni da želite izbrisati ovu grupu?"
+
+msgid "Are you sure you want to delete this meeting?"
+msgstr "Jeste li sigurni da želite izbrisati ovaj sastanak?"
+
+msgid "Are you sure you want to delete this message?"
+msgstr "Jeste li sigurni da želite izbrisati ovu poruku?"
+
+msgid "Are you sure you want to delete this motion block?"
+msgstr "Jeste li sigurni da želite izbrisati ovaj blok kretanja?"
+
+msgid "Are you sure you want to delete this motion?"
+msgstr "Jeste li sigurni da želite izbrisati ovaj amandman?"
+
+msgid "Are you sure you want to delete this projector?"
+msgstr "Jeste li sigurni da želite izbrisati ovaj projektor?"
+
+msgid "Are you sure you want to delete this state?"
+msgstr "Jeste li sigurni da želite izbrisati?"
+
+msgid "Are you sure you want to delete this structure level?"
+msgstr "Jeste li sigurni da želite izbrisati ovu razinu strukture?"
+
+msgid "Are you sure you want to delete this tag?"
+msgstr "Jeste li sigurni da želite izbrisati ovu oznaku?"
+
+msgid "Are you sure you want to delete this topic?"
+msgstr "Jeste li sigurni da želite izbrisati ovu temu?"
+
+msgid "Are you sure you want to delete this vote?"
+msgstr "Jeste li sigurni da želite izbrisati ovaj glas?"
+
+msgid "Are you sure you want to delete this workflow?"
+msgstr "Jeste li sigurni da želite izbrisati ovaj tijek rada?"
+
+msgid "Are you sure you want to discard all changes and update this form?"
+msgstr ""
+"Jeste li sigurni da želite odbaciti sve promjene i ažurirati ovaj obrazac?"
+
+msgid "Are you sure you want to discard this amendment?"
+msgstr "Jeste li sigurni da želite odbaciti ovaj amandman?"
+
+msgid "Are you sure you want to duplicate this meeting?"
+msgstr "Jeste li sigurni da želite duplicirati ovaj sastanak?"
+
+msgid ""
+"Are you sure you want to end this contribution which still has interposed "
+"question(s)?"
+msgstr ""
+"Jeste li sigurni da želite završiti ovaj doprinos koji još uvijek sadrži "
+"pitanja?"
+
+msgid ""
+"Are you sure you want to generate new passwords for all selected "
+"participants?"
+msgstr ""
+"Jeste li sigurni da želite generirati nove lozinke za sve odabrane "
+"sudionike?"
+
+msgid "Are you sure you want to irrevocably remove your point of order?"
+msgstr "Jeste li sigurni da želite neopozivo ukloniti svoju primjedbu na proceduru?"
+
+msgid "Are you sure you want to make this file/folder public?"
+msgstr "Jeste li sigurni da želite napraviti ovu datoteku / mapu javnom?"
+
+msgid "Are you sure you want to number all agenda items?"
+msgstr "Jeste li sigurni da želite broj svih agendi?"
+
+msgid ""
+"Are you sure you want to override the state of all motions of this motion "
+"block?"
+msgstr ""
+"Jeste li sigurni da želite nadjačati stanje svih prijedloga ovog bloka za "
+"prijedloge?"
+
+msgid "Are you sure you want to remove all selected items from the agenda?"
+msgstr ""
+"Jeste li sigurni da želite ukloniti sve odabrane stavke iz dnevnog reda?"
+
+msgid "Are you sure you want to remove these participants?"
+msgstr "Jeste li sigurni da želite ukloniti ove sudionike?"
+
+msgid "Are you sure you want to remove this entry from the agenda?"
+msgstr "Jeste li sigurni da želite ukloniti ovaj unos iz dnevnog reda?"
+
+msgid "Are you sure you want to remove this motion from motion block?"
+msgstr ""
+"Jeste li sigurni da želite ukloniti ovaj prijedlog iz bloka za prijedloge-zahtjeve?"
+
+msgid "Are you sure you want to remove this participant?"
+msgstr "Jeste li sigurni da želite ukloniti ovog učesnika?"
+
+msgid ""
+"Are you sure you want to remove this speaker from the list of speakers?"
+msgstr "Jeste li sigurni da želite ukloniti ovog govornika sa liste govornika?"
+
+msgid "Are you sure you want to remove yourself from this list of speakers?"
+msgstr "Jeste li sigurni da se želite ukloniti sa ove liste govornika?"
+
+msgid "Are you sure you want to renumber all motions of this category?"
+msgstr "Jeste li sigurni da želite pretvoriti sve prijedloge ove kategorije?"
+
+msgid "Are you sure you want to reset all options to default settings?"
+msgstr ""
+"Jeste li sigurni da želite resetirati sve mogućnosti na zadane postavke?"
+
+msgid "Are you sure you want to reset all passwords to the default ones?"
+msgstr "Jeste li sigurni da želite resetirati sve lozinke na zadane?"
+
+msgid ""
+"Are you sure you want to reset the time to the last set value? It will be "
+"reset to:"
+msgstr ""
+"Jeste li sigurni da želite resetirati vrijeme na zadnju zadanu "
+"vrijednost?Biće resetiran na:"
+
+msgid "Are you sure you want to reset this vote?"
+msgstr "Jeste li sigurni da želite resetirati ovaj glas?"
+
+msgid "Are you sure you want to send an invitation email to the user?"
+msgstr "Jeste li sigurni da želite poslati pozivnicu korisniku?"
+
+msgid "Are you sure you want to send an invitation email?"
+msgstr "Jeste li sigurni da želite poslati pozivnicu?"
+
+msgid "Are you sure you want to send emails to all selected participants?"
+msgstr ""
+"Jeste li sigurni da želite poslati e-poštu svim odabranim sudionicima?"
+
+msgid "Are you sure you want to stop this voting?"
+msgstr "Jeste li sigurni da želite zaustaviti ovo glasanje?"
+
+msgid "Are you sure you want to submit a point of order?"
+msgstr "Jeste li sigurni da želite podnijeti primjedbu na proceduralni postupak?"
+
+msgid "Are you sure you want to unpublish this file/folder?"
+msgstr "Jeste li sigurni da želite poništiti objavljivanje ove datoteke/mape?"
+
+msgid "As of"
+msgstr "Od"
+
+msgid "As recommendation"
+msgstr "Kao preporuka"
+
+msgid "Ask, default no"
+msgstr "Pitajte, zadano ne"
+
+msgid "Ask, default yes"
+msgstr "Pitajte, zadano da"
+
+msgid "At least"
+msgstr "Barem"
+
+msgid "At most"
+msgstr "Najviše"
+
+msgid "Attachments"
+msgstr "Prilozi"
+
+msgid ""
+"Attention: Accounts will add to the default group of each meeting only. If "
+"another group is intended please use the 'Add to meetings' dialog in account"
+" detail view."
+msgstr ""
+"Pažnja: Računi će se dodati samo u zadanu grupu svakog sastanka. Ako je "
+"namijenjena druga grupa, molimo koristite dijalog 'Dodaj na sastanke' u "
+"prikazu detalja o računu."
+
+msgid ""
+"Attention: Existing home committees and external status will be overwritten."
+msgstr "Pažnja: Postojeći matični odbori i vanjski status bit će prebrisani."
+
+msgid "Attention: First enter the wifi data in [Settings > General]"
+msgstr "Pažnja: Prvo unesite WiFi podatke u [Podešavanja> Općenito]"
+
+msgid "Attention: Not selected accounts will be merged and then deleted."
+msgstr "Pažnja: Računi koji nisu odabrani bit će spojeni, a zatim izbrisani."
+
+msgid "Attention: This action cannot be undone!"
+msgstr "Pažnja: Ova akcija se ne može poništiti!"
+
+msgid "Attribute mapping (JSON)"
+msgstr "Mapiranje atributa (JSON)"
+
+msgid "Automatically open the microphone for new conference speakers"
+msgstr "Automatski otvorite mikrofon za nove govornike konferencije"
+
+msgid "Automatically open the web cam for new conference speakers"
+msgstr "Automatski otvorite web kameru za nove govornike konferencije"
+
+msgid "Autopilot"
+msgstr "Autopilot"
+
+msgid "Autopilot widgets"
+msgstr "Autopilot widgeti"
+
+msgid "Autoupdate unhealthy"
+msgstr "Automatsko ažuriranje nije ispravno
+
+msgid "Available sizes are 10, 11 and 12"
+msgstr "Dostupne veličine su 10, 11 i 12"
+
+msgid "Available votes"
+msgstr "Dostupni glasovi"
+
+msgid "Back"
+msgstr "Natrag"
+
+msgid "Back to OpenSlides"
+msgstr "Povratak na E-Sjednice"
+
+msgid "Back to login"
+msgstr "Povratak na prijavu"
+
+msgid "Background color"
+msgstr "Boja pozadine"
+
+msgid "Ballot"
+msgstr "Glasački listić"
+
+msgid "Ballot anonymized"
+msgstr "Glasački listić anonimiziran"
+
+msgid "Ballot created"
+msgstr "Stvoren glasački listić"
+
+msgid "Ballot deleted"
+msgstr "Glasački listić izbrisan"
+
+msgid "Ballot opened"
+msgstr "Otvoren glasački listić"
+
+msgid "Ballot papers"
+msgstr "Glasački listići"
+
+msgid "Ballot published"
+msgstr "Objavljen glasački listić"
+
+msgid "Ballot reset"
+msgstr "Resetiranje glasačkog listića"
+
+msgid "Ballot started"
+msgstr "Glasanje je počelo"
+
+msgid "Ballot stopped"
+msgstr "Glasanje je zaustavljeno"
+
+msgid "Ballot stopped/published"
+msgstr "Glasanje je zaustavljeno / objavljeno"
+
+msgid "Ballot updated"
+msgstr "Glasanje Ažurirano"
+
+msgid "Ballots"
+msgstr "Glasački listići"
+
+msgid "Ballots cast"
+msgstr "Glasački listići"
+
+msgid "Base folder"
+msgstr "Bazna mapa"
+
+msgid "Begin speech"
+msgstr "Započeti govor"
+
+msgid "Blank between prefix and number, e.g. 'A 001'."
+msgstr "Prazno između prefiksa i broja, npr.'A 001'."
+
+msgid "Blockquote"
+msgstr "Blokovni citat"
+
+msgid "Bold"
+msgstr "Podebljano"
+
+msgid "Bullet list"
+msgstr "Lista s tačkama"
+
+msgid "CSV import"
+msgstr "CSV uvoz"
+
+msgid "CSV options"
+msgstr "CSV opcije"
+
+msgid "Calendar"
+msgstr "Kalendar"
+
+msgid "Call list"
+msgstr "Popis poziva"
+
+msgid "Called"
+msgstr "Pozvan"
+
+msgid "Called with"
+msgstr "Pozvan sa"
+
+msgid "Can activate and deactivate logos and fonts under > [Files]."
+msgstr ""
+"Možete aktivirati i deaktivirati logotipe i fontove ispod> [datoteke]."
+
+msgid ""
+"Can add or delete speakers to or from the list of speakers, mark, sort, "
+"start/stop and open/close the list of speakers."
+msgstr ""
+"Možete dodati ili izbrisati govornike na ili sa liste govornika, označite, "
+"sortirajte, pokrenite / zaustavite i otvorite / zatvorite listu govornika."
+
+msgid ""
+"Can add their name to the list of candidates in the [Search for candidates] "
+"phase."
+msgstr "Može dodati  ime na listu kandidata u fazi [Traženje kandidata]."
+
+msgid "Can change the presence status of other participants."
+msgstr "Mogu promijeniti status prisutnosti ostalih sudionika."
+
+msgid "Can create amendments"
+msgstr "Mogu napraviti amandmane"
+
+msgid ""
+"Can create amendments and modify them later, depending on the workflow, but "
+"cannot delete them."
+msgstr ""
+"Mogu stvoriti izmjene i modificirati ih kasnije, ovisno o tijeku rada, ali "
+"ih ne mogu izbrisati."
+
+msgid "Can create motions"
+msgstr "Mogu stvoriti amandmane"
+
+msgid ""
+"Can create motions and modify them later, depending on the workflow, but "
+"cannot delete them."
+msgstr ""
+"Može stvoriti prijedloge-zahtjeve i modificirati ih kasnije, ovisno o tijeku rada, ali "
+"ih ne mogu izbrisati."
+
+msgid "Can create, change, delete tags for the agenda and for motions."
+msgstr ""
+"Može kreirati, mijenjati, izbrisati oznake za dnevni red i za prijedloge."
+
+msgid "Can create, change, start/stop and delete polls."
+msgstr "Može kreirati, promijeniti, započeti / zaustaviti i izbrisati ankete."
+
+msgid "Can create, configure, control and delete projectors."
+msgstr "Može kreirati, konfigurirati, kontrolirati i brisati projektore."
+
+msgid ""
+"Can create, modify and delete elections and candidate lists, as well as "
+"start/stop and reset ballots. "
+msgstr ""
+"Može kreirati, izmijeniti i izbrisati izbore i liste kandidata, kao i "
+"pokretanje / zaustavljanje i resetirati glasanje."
+
+msgid ""
+"Can create, modify and delete motions and votings, amendments and change "
+"recommendations, and edit the metadata of a motion. Including the management"
+" of categories, motion blocks, tags, workflows and comment fields."
+msgstr ""
+"Može kreirati, izmijeniti i izbrisati prijedloge i glasanje, izmjene i "
+"promjene preporuka i uređivanje metapodataka prijedloga-zahtjeva.Uključujući upravljanje"
+" kategorijama, blokovima amandmana, oznake, tokokovima rada i polja za "
+"komentare."
+
+msgid ""
+"Can create, modify and delete topics, add motions and elections to the "
+"agenda, sort, number and tag agenda items."
+msgstr ""
+"Može kreirati, modificirati i brisati teme, dodavati prijedloge i izbore na "
+"dnevni red, sortirati, numerisati tagirati stavke dnevnog reda."
+
+msgid ""
+"Can create, modify, delete chat groups and define permissions.\n"
+"\n"
+"Note: The chat menu item becomes visible to all participants, except admins, as soon as a chat has been created."
+msgstr ""
+"Može kreirati, izmijeniti, izbrisati grupe za chat i definirati dozvole.\n"
+"\n"
+"Napomena: Stavka menija chat postaje vidljiva svim sudionicima, osim administratora, čim je chat stvoren."
+
+msgid ""
+"Can create, modify, delete participant datasets and administrate group "
+"permissions."
+msgstr ""
+"Može kreirati, izmijeniti, brisati podatke učesnika i upravljati grupnim "
+"dozvolama."
+
+msgid "Can create, modify, start/stop and delete votings."
+msgstr ""
+"Može kreirati, modificirati, pokrenuti / zaustaviti i izbrisati glasanje."
+
+msgid "Can edit all moderation notes."
+msgstr "Može uređivati ​​sve bilješke o moderiranju."
+
+msgid ""
+"Can edit and assign the following motion metadata: Submitter, state, "
+"recommendation, category, motion blocks and tags."
+msgstr ""
+"Može uređivati i dodijeliti sljedeće metapodatke prijedloga: podnosilac, "
+"stanje, preporuka, kategorija, blokovi i oznake kretanja."
+
+msgid "Can edit own delegation"
+msgstr "Može urediti vlastitu delegaciju"
+
+msgid "Can forward motions"
+msgstr "Mogu prosljeđivati prijedloge-zahtjeve"
+
+msgid "Can forward motions to committee"
+msgstr "Mogu prosljeđivati prijedloge u odbor"
+
+msgid ""
+"Can forward motions to other meetings within the OpenSlides instance.\n"
+"\n"
+"Further requirements:\n"
+"1. forwarding hierarchy must be set at the organizational level in the committee.\n"
+"2. target meeting must be created.\n"
+"3. forwarding must be activated in the workflow in the state."
+msgstr ""
+"Mogu moći prosljeđivati prijedloge na druge sastanke u okviru instance E-Sjednice.\n"
+"\n"
+"Daljnji zahtjevi:\n"
+"1. Hijerarhija prosljeđivanja mora biti postavljena na organizacijskom nivou u Odboru.\n"
+"2 Mora se stvoriti ciljni sastanak.\n"
+"3 Prosljeđivanje se mora aktivirati u tijeku rada."
+
+msgid "Can manage agenda"
+msgstr "Može upravljati dnevnim redom"
+
+msgid "Can manage elections"
+msgstr "Mogu upravljati izborima"
+
+msgid "Can manage files"
+msgstr "Mogu upravljati datotekama"
+
+msgid "Can manage list of speakers"
+msgstr "Može upravljati popisom govornika"
+
+msgid "Can manage logos and fonts"
+msgstr "Mogu upravljati logotipovima i fontovima"
+
+msgid "Can manage moderation notes"
+msgstr "Može upravljati bilješkama moderiranja"
+
+msgid "Can manage motion metadata"
+msgstr "Može upravljati metapodacima prijedloga-zahtjeva"
+
+msgid "Can manage motion polls"
+msgstr "Mogu upravljati anketama prijedloga-zahtjeva"
+
+msgid "Can manage motions"
+msgstr "Mogu upravljati amandmanima"
+
+msgid "Can manage participants"
+msgstr "Mogu upravljati učesnicima"
+
+msgid "Can manage polls"
+msgstr "Mogu upravljati anketama"
+
+msgid "Can manage presence of others"
+msgstr "Mogu upravljati prisustvom drugih"
+
+msgid "Can manage settings"
+msgstr "Mogu upravljati postavkama"
+
+msgid "Can manage tags"
+msgstr "Mogu upravljati oznakama"
+
+msgid "Can manage the chat"
+msgstr "Može upravljati chatom"
+
+msgid "Can manage the projector"
+msgstr "Može upravljati projektorom"
+
+msgid "Can modify existing participants, but cannot create or delete them."
+msgstr ""
+"Mogu izmijeniti postojeće učesnike, ali ne mogu ih stvoriti ili izbrisati."
+
+msgid "Can nominate another participant"
+msgstr "Mogu nominirati drugog učesnika"
+
+msgid "Can nominate oneself"
+msgstr "Može nominirati sebe"
+
+msgid ""
+"Can nominate other participants as candidates.\n"
+"\n"
+"Requires group permission: [Can see participants]"
+msgstr ""
+"Mogu nominirati druge sudionike kao kandidate.\n"
+"\n"
+"Zahtijeva grupnu dozvolu: [može vidjeti učesnike]"
+
+msgid "Can not import because of errors"
+msgstr "Ne mogu uvesti zbog grešaka"
+
+msgid "Can put oneself on the list of speakers"
+msgstr "Može se staviti na popis govornika"
+
+msgid "Can receive motions"
+msgstr "Mogu primati prijedloge"
+
+msgid "Can receive motions from committee"
+msgstr "Mogu primati prijedloge iz odbora"
+
+msgid "Can see agenda"
+msgstr "Mogu vidjeti dnevni red"
+
+msgid "Can see all internal topics, schedules and comments."
+msgstr "Mogu vidjeti sve interne teme, rasporede i komentare."
+
+msgid "Can see all lists of speakers"
+msgstr "Mogu vidjeti sve liste govornika"
+
+msgid "Can see all moderation notes in each list of speakers."
+msgstr "Mogu vidjeti sve bilječke moderiranja na svakom popisu govornika."
+
+msgid "Can see elections"
+msgstr "Mogu vidjeti izbore"
+
+msgid ""
+"Can see email, username, membership number, SSO identification and locked "
+"out state of all participants."
+msgstr ""
+"Može vidjeti e-poštu, korisničko ime, broj članstva, identifikaciju SSO-a i "
+"zaključano stanje svih sudionika."
+
+msgid "Can see files"
+msgstr "Mogu vidjeti datoteke"
+
+msgid "Can see history"
+msgstr "Može vidjeti istoriju"
+
+msgid "Can see internal items and time scheduling of agenda"
+msgstr "Mogu vidjeti interne stavke i vrijeme zakazivanja dnevnog reda"
+
+msgid "Can see list of speakers"
+msgstr "Može vidjeti listu govornika"
+
+msgid "Can see moderation notes"
+msgstr "Mogu vidjeti bilješke moderiranja"
+
+msgid "Can see motions"
+msgstr "Mogu vidjeti amandmane"
+
+msgid "Can see motions in internal state"
+msgstr "Mogu vidjeti prijedloge u internom stanju"
+
+msgid ""
+"Can see motions in the internal state that are limited in the workflow under Restrictions with the same description.\n"
+"\n"
+"Tip: Cross-check desired visibility of motions with test delegate account. "
+msgstr ""
+"Mogu vidjeti prijedloge u unutrašnjem stanju koji su ograničeni u tijeku rada pod ograničenjima s istim opisom.\n"
+"\n"
+"Savjet: Provjerite željenu vidljivost amandman s testnim delegatskim računom."
+
+msgid "Can see origin motion"
+msgstr "Mogu vidjeti porijeklo amandmana"
+
+msgid "Can see participants"
+msgstr "Mogu vidjeti učesnike"
+
+msgid "Can see sensitive data"
+msgstr "Mogu vidjeti osjetljive podatke"
+
+msgid "Can see the Agenda menu item and all public topics in the agenda."
+msgstr ""
+"Može vidjeti stavke dnevnog reda i sve javne teme u dnevnom redu."
+
+msgid ""
+"Can see the Autopilot menu item with all content for which appropriate "
+"permissions are set."
+msgstr ""
+"Može vidjeti stavku izbornika Autopilot sa svim sadržajem za koji su "
+"postavljene odgovarajuća dozvola."
+
+msgid ""
+"Can see the Files menu item and all shared folders and files.\n"
+"\n"
+"Note: Sharing of folders and files may be restricted by group assignment."
+msgstr ""
+"Možete vidjeti stavku izbornika datoteka i sve dijeljene mape i datoteke.\n"
+"\n"
+"Napomena: Dijeljenje mapa i datoteka može biti ograničeno grupnim zadatkom."
+
+msgid ""
+"Can see the History menu item with the history of processing timestamps for motions, elections and participants.\n"
+"\n"
+"Note: For privacy reasons, it is recommended to limit the rights to view the History significantly."
+msgstr ""
+"Može vidjeti stavku izbornika povijesti s poviješću o obradi vremenskih oznaka za prijedloge-zahtjve, izbore i učesnike.\n"
+"\n"
+"Napomena: Iz razloga privatnosti preporučuje se ograničiti prava na značajku historije."
+
+msgid "Can see the Home menu item."
+msgstr "Možete vidjeti stavku početnog menija."
+
+msgid ""
+"Can see the Motions menu item and all motions unless they are limited by "
+"access restrictions in the workflow."
+msgstr ""
+"Može vidjeti stavku izbornika amandmani i sve prijedloge-zahtjeve ako nisu ograničeni "
+"ograničenjima pristupa u tijeku rada."
+
+msgid ""
+"Can see the Projector menu item and all projectors (in the Autopilot as well"
+" as in the Projector menu item)"
+msgstr ""
+"Može vidjeti stavku izbornika projektora i sve projektore (u autopilotu kao "
+"i u stavci izbornika projektora)"
+
+msgid ""
+"Can see the Settings menu item and edit all settings as well as the start "
+"page of the meeting."
+msgstr ""
+"Možete vidjeti stavku izbornika postavki i uređivanje svih postavki kao i "
+"početnu stranicu sastanka."
+
+msgid "Can see the autopilot"
+msgstr "Može vidjeti autopilot"
+
+msgid "Can see the front page"
+msgstr "Može vidjeti naslovnu stranicu"
+
+msgid "Can see the live stream"
+msgstr "Može vidjeti prijenos uživo"
+
+msgid ""
+"Can see the livestream if there is a livestream URL entered in > [Settings] "
+"> [Livestream]."
+msgstr ""
+"Može vidjeti livestream ako je unesen URL livestream URL> [Settings]> "
+"[Livestream]."
+
+msgid ""
+"Can see the menu item Elections, including the list of candidates and results.\n"
+"\n"
+"Note: The right to vote is defined directly in the ballot."
+msgstr ""
+"Može vidjeti stavke izbornika Izbori, uključujući popis kandidata i rezultata.\n"
+"\n"
+"Napomena: Pravo glasanja je definirano direktno u glasačkom listiću."
+
+msgid ""
+"Can see the menu item Participants and therefore the following data from all participants:\n"
+"Personal data: Name, pronoun, gender.\n"
+"Meeting specific information: Structure level, Group, Participant number, About me, Presence status."
+msgstr ""
+"Možete vidjeti učesnike stavke menija i samim tim i sledeće podaci svih sudionika:\n"
+"Osobni podaci: Ime, funkcija, spol.\n"
+"Specifične podatake sastanka: nivo strukture, grupa, broj učesnika, o meni, status prisutnosti."
+
+msgid "Can see the projector"
+msgstr "Može vidjeti projektor"
+
+msgid "Can set and remove own delegation."
+msgstr "Može postaviti i ukloniti vlastitu delegaciju."
+
+msgid "Can support motions"
+msgstr "Mogu podržati prijedloge"
+
+msgid ""
+"Can support motions. The support function must be enabled in > [Settings] > "
+"[Motions] as well as for the corresponding state in > [Workflow]."
+msgstr ""
+"Mogu podržati prijedloge.Funkcija podrške mora biti omogućena u> "
+"[Podešavanja]> [Amandmani] kao i za odgovarajuće stanje u> [WorkFlow]."
+
+msgid "Can update participants"
+msgstr "Mogu ažurirati učesnike"
+
+msgid ""
+"Can upload, modify and delete files, administrate folders and change access "
+"restrictions."
+msgstr ""
+"Možete prenijeti, modificirati i izbrisati datoteke, administrirati mape i "
+"promijeniti ograničenja pristupa."
+
+msgid "Cancel"
+msgstr "Otkazati"
+
+msgid "Cancel edit"
+msgstr "Otkaži uređivanje"
+
+msgid "Cancel editing without saving"
+msgstr "Otkaži uređivanje bez spremanja"
+
+msgid "Candidate"
+msgstr "Kandidat"
+
+msgid "Candidate added"
+msgstr "Kandidat je dodan"
+
+msgid "Candidate removed"
+msgstr "Kandidat je uklonjen"
+
+msgid "Candidates"
+msgstr "Kandidati"
+
+msgid "Cannot create meeting without administrator."
+msgstr "Ne može stvoriti sastanak bez administratora."
+
+msgid "Cannot delete published files"
+msgstr "Ne može izbrisati objavljene datoteke"
+
+msgid "Cannot do that in demo mode!"
+msgstr "Ne mogu to učiniti u demo režimu!"
+
+msgid "Cannot forward motions"
+msgstr "Ne mogu prosljeđivati prijedloge-zahtjeve"
+
+msgid "Cannot move published files"
+msgstr "Ne može premjestiti objavljene datoteke"
+
+msgid "Cannot receive motions"
+msgstr "Ne mogu primati prijedloge"
+
+msgid "Categories"
+msgstr "Kategorije"
+
+msgid "Category"
+msgstr "Kategorija"
+
+msgid "Category changed"
+msgstr "Kategorija je promijenjena"
+
+msgid "Category removed"
+msgstr "Kategorija uklonjena"
+
+msgid "Category set to {}"
+msgstr "Kategorija postavljena na {}"
+
+msgid "Center"
+msgstr "Centar"
+
+msgid "Change color set"
+msgstr "Promjena seta boja"
+
+msgid "Change paragraph"
+msgstr "Promjena stavka"
+
+msgid "Change password"
+msgstr "Promijenite lozinku"
+
+msgid "Change password for"
+msgstr "Promijenite lozinku za"
+
+msgid "Change presence"
+msgstr "Promjena prisutnosti"
+
+msgid "Change recommendation"
+msgstr "Promijenite preporuku"
+
+msgid "Change recommendation - rejected"
+msgstr "Promjena preporuke - odbijena"
+
+msgid "Change recommendations"
+msgstr "Promijenite preporuke"
+
+msgid "Change your delegation"
+msgstr "Promenite delegaciju"
+
+msgid "Changed by"
+msgstr "Promenjen od"
+
+msgid "Changed title"
+msgstr "Izmenjen naslov"
+
+msgid "Changed version"
+msgstr "Promijenjena verzija"
+
+msgid "Changed version in line"
+msgstr "Promijenjena verzija u liniji"
+
+msgid "Changes"
+msgstr "Promjene"
+
+msgid "Changes of all settings group will be lost!"
+msgstr "Promjene svih grupa postavki bit će izgubljene!"
+
+msgid "Chat"
+msgstr "Chat"
+
+msgid "Chat groups"
+msgstr "Grupe za chat"
+
+msgid "Check datastore"
+msgstr "Provjerite bazu podataka"
+
+msgid "Check in or check out participants based on their participant numbers:"
+msgstr ""
+"Prijava ili odjava učesnika na osnovu njihovog broja:"
+
+msgid "Checkmate! You lost!"
+msgstr "šah-mat!Izgubili ste!"
+
+msgid "Checkmate! You won!"
+msgstr "šah-mat!Pobedili ste!"
+
+msgid "Chess"
+msgstr "Šah"
+
+msgid "Choice"
+msgstr "Izbor"
+
+msgid "Choose 0 to disable Intervention."
+msgstr "Odaberite 0 za onemogućavanje intervencije."
+
+msgid ""
+"Choose 0 to disable speaking times widget for structure level countdowns."
+msgstr ""
+"Odaberite 0 da biste onemogućili vrijeme govornog vremena za odbrojavanje "
+"nivoa strukture."
+
+msgid "Choose 0 to disable the supporting system."
+msgstr "Odaberite 0 da biste onemogućili sustav za potporu."
+
+msgid "Chyron"
+msgstr "Chyron"
+
+msgid "Chyron agenda item, background color"
+msgstr "Chyron stavka dnevnog reda, pozadinska boja"
+
+msgid "Chyron agenda item, font color"
+msgstr "Chyron stavka dnevnog reda, boja fonta"
+
+msgid "Chyron speaker name"
+msgstr "Naziv govornika Chyron"
+
+msgid "Chyron speaker, background color"
+msgstr "Chyron govornik, boja pozadine"
+
+msgid "Chyron speaker, font color"
+msgstr "Chyron govornik, boja fonta"
+
+msgid "Classic"
+msgstr "Klasičan"
+
+msgid "Clear"
+msgstr "Očisti"
+
+msgid "Clear all filters"
+msgstr "Očistite sve filtere"
+
+msgid "Clear all list of speakers"
+msgstr "Očistite sve liste govornika"
+
+msgid "Clear current projection"
+msgstr "Očisti trenutnu projekcija"
+
+msgid "Clear formatting"
+msgstr "Očisti oblikovanje"
+
+msgid "Clear list"
+msgstr "Očisti listu"
+
+msgid "Clear motion block"
+msgstr "Očisti blok prijedloga-zahtjeva"
+
+msgid "Clear recommendation"
+msgstr "Očisti preporuke"
+
+msgid "Clear tags"
+msgstr "Očisti tagove"
+
+msgid "Click here to vote!"
+msgstr "Kliknite ovdje da biste glasali!"
+
+msgid "Close"
+msgstr "Zatvoriti"
+
+msgid "Close edit mode"
+msgstr "Zatvorite režim uređivanja"
+
+msgid "Close list of speakers"
+msgstr "Zatvorite listu govornika"
+
+msgid "Closed"
+msgstr "Zatvoren"
+
+msgid "Closed items"
+msgstr "Zatvoreni predmeti"
+
+msgid "Collapse all"
+msgstr "Sažmi sve"
+
+msgid "Color"
+msgstr "Boja"
+
+msgid "Color set"
+msgstr "Set boja"
+
+msgid "Column separator"
+msgstr "Separator stupaca"
+
+msgid "Comment"
+msgstr "Komentar"
+
+msgid "Comment created"
+msgstr "Komentar kreiran"
+
+msgid "Comment deleted"
+msgstr "Komentar izbrisan"
+
+msgid "Comment fields"
+msgstr "Polja komentara"
+
+msgid "Comment section"
+msgstr "Odjeljak za komentare"
+
+msgid "Comment sections"
+msgstr "Odjeljci komentara"
+
+msgid "Comment updated"
+msgstr "Ažuriran komentar"
+
+msgid "Comment {} created"
+msgstr "Komentar {} Stvoren"
+
+msgid "Comment {} deleted"
+msgstr "Komentar {} Izbrisan"
+
+msgid "Comment {} updated"
+msgstr "Komentar {} Ažuriran"
+
+msgid "Comments"
+msgstr "Komentari"
+
+msgid "Committee"
+msgstr "Odbor"
+
+msgid "Committee Management Level changed"
+msgstr "Razina upravljanja odborom promijenjena je"
+
+msgid "Committee admin"
+msgstr "Administrator odbora"
+
+msgid "Committee management"
+msgstr "Upravljanje odborom"
+
+msgid "Committee managers"
+msgstr "Menadžeri odbora"
+
+msgid "Committees"
+msgstr "Odbori"
+
+msgid "Committees and meetings"
+msgstr "Odbori i sastanci"
+
+msgid "Committees created"
+msgstr "Napravljen odbor"
+
+msgid "Committees updated"
+msgstr "Odbori su ažurirani"
+
+msgid "Committees with errors"
+msgstr "Odbori sa greškama"
+
+msgid "Committees with warnings: affected cells will be skipped"
+msgstr "Odbori sa upozorenjima: pogođene ćelije će biti preskočene"
+
+msgid "Conference room"
+msgstr "Sala za konferencije"
+
+msgid "Confirm new password"
+msgstr "Potvrdite novu lozinku"
+
+msgid "Confirmation of the nomination list"
+msgstr "Potvrda liste nominacije"
+
+msgid "Congratuations! Your browser is supported by OpenSlides."
+msgstr "Čestitamo!Vaš pretraživač podržava E-Sjednice."
+
+msgid "Connect 4"
+msgstr "Connect 4"
+
+msgid "Connect all users to live conference automatically."
+msgstr "Priključite sve korisnike na konferenciju uživo automatski."
+
+msgid "Content"
+msgstr "Sadržaj"
+
+msgid "Continue livestream"
+msgstr "Nastavite livestream"
+
+msgid "Continuous text"
+msgstr "Kontinuirani tekst"
+
+msgid "Contra speech"
+msgstr "Kontra govor"
+
+msgid "Contribution"
+msgstr "Doprinos"
+
+msgid "Contributions"
+msgstr "Doprinosi"
+
+msgid "Copy report to clipboard"
+msgstr "Kopirajte izvještaj u međuspremnik"
+
+msgid "Count completed requests to speak"
+msgstr "Brojite kompletirane zahtjeve za govor"
+
+msgid "Count logged-in users"
+msgstr "Broj prijavljenih korisnika"
+
+msgid "Countdown"
+msgstr "Odbrojavanje"
+
+msgid "Countdowns"
+msgstr "Odbrojavanja"
+
+msgid "Counter speech"
+msgstr "Protupožarni govor"
+
+msgid "Counting of votes is in progress ..."
+msgstr "Brojanje glasova je u toku ..."
+
+msgid "Couple countdown with the list of speakers"
+msgstr "Odbrojavanje za parove s popisom govornika"
+
+msgid "Create"
+msgstr "Kreiraj"
+
+msgid "Create editorial final version"
+msgstr "Kreirajte uredničku konačnu verziju"
+
+msgid "Create subitem"
+msgstr "Kreiraj podstavku"
+
+msgid "Create user"
+msgstr "Kreirajte korisnika"
+
+msgid "Creating PDF file ..."
+msgstr "Kreiranje PDF datoteke ..."
+
+msgid "Creation"
+msgstr "Kreiranje"
+
+msgid "Creation date"
+msgstr "Datum kreiranja"
+
+msgid "Current agenda item"
+msgstr "Trenutna stavka dnevnog reda"
+
+msgid "Current date"
+msgstr "Trenutni datum"
+
+msgid "Current list of speakers"
+msgstr "Trenutni popis govornika"
+
+msgid "Current list of speakers (as slide)"
+msgstr "Trenutni popis govornika (kao klizač)"
+
+msgid "Current slide"
+msgstr "Trenutni slajd"
+
+msgid "Current speaker"
+msgstr "Trenutni govornik"
+
+msgid "Current speaker chyron"
+msgstr "Trenutni govornik Chyron"
+
+msgid "Current window"
+msgstr "Trenutni prozor"
+
+msgid "Currently no livestream available."
+msgstr "Trenutno nema livestream-a."
+
+msgid "Currently projected"
+msgstr "Trenutno projicira"
+
+msgid "Custom aspect ratio"
+msgstr "Prilagođeni aspekt omjera"
+
+msgid "Custom number of ballot papers"
+msgstr "Prilagođeni broj glasačkih listića"
+
+msgid "Custom translations"
+msgstr "Prilagođeni prijevodi"
+
+msgid "Customize autopilot"
+msgstr "Prilagodite autopilot"
+
+msgid "Dark mode"
+msgstr "Tamni režim"
+
+msgid "Dashboard"
+msgstr "Kontrolna ploča"
+
+msgid "Datastore is corrupt! See the console for errors."
+msgstr "DataStore je korumpiran!Pogledajte konzolu za greške."
+
+msgid "Datastore is ok!"
+msgstr "DataStore je u redu!"
+
+msgid "Decision"
+msgstr "Odluka"
+
+msgid "Default"
+msgstr "Podrazumijevano"
+
+msgid "Default 100 % base"
+msgstr "Zadano 100 % baza"
+
+msgid "Default election method"
+msgstr "Zadana metoda izbora"
+
+msgid "Default encoding for all CSV exports"
+msgstr "Zadano kodiranje za sve CSV izvoze"
+
+msgid "Default group"
+msgstr "Zadana grupa"
+
+msgid "Default groups with voting rights"
+msgstr "Zadane grupe sa pravima glasa"
+
+msgid "Default line numbering"
+msgstr "Zadano numeriranje redova"
+
+msgid ""
+"Default speaking time contingent for parliamentary groups (structure levels)"
+" in seconds"
+msgstr ""
+"Zadano vrijeme za govor za parlamentarne grupe (nivoi strukture)"
+" u sekundama"
+
+msgid ""
+"Default text version for change recommendations and projection of motions"
+msgstr "Zadana verzija teksta za promjene preporuka i projekcije prijedloga-zahtjeva"
+
+msgid "Default visibility for new agenda items (except topics)"
+msgstr "Zadana vidljivost za nove stavke dnevnog reda (osim tema)"
+
+msgid "Default vote weight"
+msgstr "Zadana težina glasa"
+
+msgid "Default voting duration"
+msgstr "Zadano trajanje glasanja"
+
+msgid "Default voting method"
+msgstr "Zadana metoda glasanja"
+
+msgid "Default voting type"
+msgstr "Zadana vrsta glasanja"
+
+msgid ""
+"Defines for the selected state which groups have access:\n"
+"- If no option is selected, the motions in the selected state are visible to all; The prerequisite for this is group permission: [Can see motions].\n"
+"- Selecting one or more options restricts access to those groups for which the selected authorization option is defined under > [Participants] > [Groups]."
+msgstr ""
+"Definiše za odabrano stanje koje grupe imaju pristup:\n"
+"- Ako nije odabrana nijedna opcija, prijedlozi u odabranom stanju vidljivi su svima;Preduvjet za ovo je grupna dozvola: [može vidjeti prijedloge].\n"
+"- Odabir jedne ili više opcija ograničava pristup tim grupama za koje je odabrana opcija autorizacije definirana ispod> [Učesnici]> [Grupe]."
+
+msgid "Defines the colour for the state button."
+msgstr "Definira boju za status dugmeta."
+
+msgid ""
+"Defines the maximum deflection. Entering zero will use the amount of present"
+" participants instead."
+msgstr ""
+"Definira maksimalni otklon.Unošenje nule koristiće iznos sadašnjih učesnika."
+
+msgid ""
+"Defines the minimum deflection which is required to recognize applause."
+msgstr "Definira minimalni otklon koji je potreban za prepoznavanje aplauza."
+
+msgid "Defines the time in which applause amounts are add up."
+msgstr "Definira vrijeme u kojem se dodaju aplauzi."
+
+msgid ""
+"Defines the wording of the recommendation that belongs to this state.\n"
+"Example: State = Accepted / Recommendation = Acceptance.\n"
+"\n"
+"To activate the recommendation system, a recommender (for example, a motion committee) must be defined under > [Settings] > [Motions] > [Name of recommender].\n"
+"Example recommender: motion committee\n"
+"\n"
+"Additional information:\n"
+"In combination with motion blocks, the recommendation of multiple motions can be followed simultaneously."
+msgstr ""
+"Definira formulaciju preporuke koja pripada ovom stausu.\n"
+"Primjer: stanje = prihvaćeno / preporuka = prihvatanje.\n"
+"\n"
+"Da biste aktivirali sustav preporuke, preporučitelj (na primjer, odbor za prijedlog) mora se definirati pod> [Podešavanja]> [Amandmani]> [Ime preporučitelja].\n"
+"Primjer preporuka: Odbor za Amandmane\n"
+"\n"
+"Dodatne informacije:\n"
+"U kombinaciji sa blokovima prijedloga-zahtjeva, preporuka više prijedloga-zahtjeva može se poštivati istovremeno."
+
+msgid "Defines which states can be selected next in the workflow."
+msgstr "Definiše koja stanja se mogu sljedeće odabrati u toku rada."
+
+msgid "Delegation of vote"
+msgstr "Delegacija glasanja"
+
+msgid "Delete"
+msgstr "Obriši"
+
+msgid "Delete color set"
+msgstr "Izbriši set boja"
+
+msgid "Delete editorial final version"
+msgstr "Izbrišite uredničku konačnu verziju"
+
+msgid "Delete projector"
+msgstr "Izbriši projektor"
+
+msgid "Deleted user"
+msgstr "Izbrisani korisnik"
+
+msgid "Deleting this motion will also delete the amendments."
+msgstr "Brisanje ovog zahtjeva također će izbrisati izmjene i dopune."
+
+msgid "Deletion"
+msgstr "Brisanje"
+
+msgid "Delivering vote... Please wait!"
+msgstr "Isporuka glasa ... Molimo pričekajte!"
+
+msgid "Description"
+msgstr "Opis"
+
+msgid "Deselect all"
+msgstr "Poništiti odabir svih"
+
+msgid "Design"
+msgstr "Dizajn"
+
+msgid "Designates whether this user is in the room."
+msgstr "Određuje je li ovaj korisnik u sobi."
+
+msgid "Didn't get an email"
+msgstr "Nije dobio e-poštu"
+
+msgid "Diff version"
+msgstr "Diff verzija"
+
+msgid "Disabled (no percents)"
+msgstr "Onemogućeno (bez postotaka)"
+
+msgid "Disallow new point of order when list of speakers is closed"
+msgstr "Zabrani novu tačku kada je lista govornika zatvorena"
+
+msgid "Display type"
+msgstr "Vrsta prikaza"
+
+msgid "Distribute overhang time"
+msgstr "Distribuirati prekoračenje vremena"
+
+msgid "Divergent:"
+msgstr "Divergentno:"
+
+msgid "Do not forget to save your changes!"
+msgstr "Ne zaboravite da sačuvate svoje promjene!"
+
+msgid "Do not show recommendations publicly"
+msgstr "Ne prikazujte preporuke javno"
+
+msgid "Do you accept?"
+msgstr "Da li prihvatate?"
+
+msgid "Do you really want to delete this color set?"
+msgstr "Da li zaista želite izbrisati ovaj skup boja?"
+
+msgid "Do you really want to discard all your changes?"
+msgstr "Da li stvarno želite odbaciti sve svoje promjene?"
+
+msgid "Do you really want to go ahead?"
+msgstr "Da li stvarno želite ići naprijed?"
+
+msgid "Do you really want to lock this participant out of the meeting?"
+msgstr "Da li stvarno želite zaključati ovog učesnika sa sastanka?"
+
+msgid ""
+"Do you really want to make available this meeting as a public template?"
+msgstr "Da li zaista želite da postavite ovaj sastanak kao javni predložak?"
+
+msgid "Do you really want to save your changes?"
+msgstr "Da li stvarno želite spremiti svoje promjene?"
+
+msgid "Do you really want to stop sharing this meeting as a public template?"
+msgstr ""
+"Da li stvarno želite prestati dijeliti ovaj sastanak kao javni predložak?"
+
+msgid "Do you really want to undo the lock out of the participant?"
+msgstr "Da li stvarno želite da poništite zaključavanje učesnika?"
+
+msgid "Do you want to update the amendment text? All changes will be lost."
+msgstr "Želite li ažurirati tekst amandmana?Sve promjene će biti izgubljene."
+
+msgid "Does not have notes"
+msgstr "Nema bilješke"
+
+msgid "Done"
+msgstr "Gotovo"
+
+msgid "Download"
+msgstr "Preuzeti"
+
+msgid "Download CSV example file"
+msgstr "Preuzmite datoteku Primjer CSV"
+
+msgid "Download folder"
+msgstr "Preuzmite mapu"
+
+msgid "Download the file"
+msgstr "Preuzmite datoteku"
+
+msgid "Drop files into this area OR click here to select files"
+msgstr ""
+"Ispustite datoteke u ovo područje ili kliknite ovdje za odabir datoteka"
+
+msgid "Duplicate"
+msgstr "Duplikat"
+
+msgid "Duplicate from"
+msgstr "Duplicirati od"
+
+msgid "Duplicates"
+msgstr "Duplikati"
+
+msgid "Duration"
+msgstr "Trajanje"
+
+msgid "Duration in minutes"
+msgstr "Trajanje u minutama"
+
+msgid "Duration of all requests to speak"
+msgstr "Trajanje svih zahtjeva za govor"
+
+msgid "Duration of requests to speak"
+msgstr "Trajanje zahtjeva za govor"
+
+msgid ""
+"During non-nominal voting OpenSlides does NOT store the individual user ID "
+"of the voter. This in no way means that a non-nominal vote is completely "
+"anonymous and secure. The votes cannot track their individual votes after "
+"the data has been submitted. The validity of the data cannot always be "
+"guaranteed."
+msgstr ""
+"Tokom glasanja bez nominacije, E-Sjednice NE pohranjuje individualni korisnički ID "
+"birača. To ni na koji način ne znači da je nenominalni glas potpuno "
+"anonimno i sigurno. Glasači ne mogu pratiti svoje pojedinačne glasove nakon "
+"što su podaci dostavljeni. Validnost podataka ne može uvijek biti "
+"garantovana."
+
+msgid "Edit"
+msgstr "Urediti"
+
+msgid "Edit HTML content"
+msgstr "Urediti HTML sadržaj"
+
+msgid "Edit account"
+msgstr "Uređivanje računa"
+
+msgid "Edit comment field"
+msgstr "Uredi polje za komentare"
+
+msgid "Edit committee"
+msgstr "Uređivanje odbora"
+
+msgid "Edit details"
+msgstr "Uređivanje detalja"
+
+msgid "Edit details for"
+msgstr "Uređivanje detalja za"
+
+msgid "Edit editorial final version"
+msgstr "Uređivanje uredničke konačne verzije"
+
+msgid "Edit group"
+msgstr "Uredi grupu"
+
+msgid "Edit meeting"
+msgstr "Uređivanje sastanka"
+
+msgid "Edit moderation note"
+msgstr "Uredi bilješku o moderiranjuna"
+
+msgid "Edit participant"
+msgstr "Uređivanje učesnika"
+
+msgid "Edit point of order ..."
+msgstr "Uređivanje točke  ..."
+
+msgid "Edit projector"
+msgstr "Uređivanje projektora"
+
+msgid "Edit queue"
+msgstr "Uredi red"
+
+msgid "Edit state"
+msgstr "Uređivanje stanja"
+
+msgid "Edit tag"
+msgstr "Uredi oznaku"
+
+msgid "Edit the whole motion text"
+msgstr "Uredi cijeli tekst prijedloga-zahtjeva"
+
+msgid "Edit to enter votes."
+msgstr "Uredi da uneseš glasove."
+
+msgid "Edit topic"
+msgstr "Uredi temu"
+
+msgid "Edit workflow"
+msgstr "Uredi tok rada"
+
+msgid "Editorial final version"
+msgstr "Urednička konačna verzija"
+
+msgid "Election"
+msgstr "Izbori"
+
+msgid "Election documents"
+msgstr "Izborni dokumenti"
+
+msgid "Election method"
+msgstr "Metoda izbora"
+
+msgid "Elections"
+msgstr "Izbori"
+
+msgid "Elections (PDF settings)"
+msgstr "Izbori (PDF postavke)"
+
+msgid "Element"
+msgstr "Element"
+
+msgid "Email"
+msgstr "E-pošta"
+
+msgid "Email address"
+msgstr "Adresa e-pošte"
+
+msgid "Email body"
+msgstr "Tijelo e-pošte"
+
+msgid "Email sent"
+msgstr "Poslana e-pošta"
+
+msgid "Email settings"
+msgstr "Postavke e-pošte"
+
+msgid "Email subject"
+msgstr "Predmet e-pošte"
+
+msgid "Empty text field"
+msgstr "Prazno tekstno polje"
+
+msgid "Enable SSO via SAML"
+msgstr "Omogući SSO preko SAML"
+
+msgid "Enable chat globally"
+msgstr "Omogući chat globalno"
+
+msgid "Enable electronic voting"
+msgstr "Omogući elektronsko glasanje"
+
+msgid "Enable forspeech / counter speech"
+msgstr "Omogući govor / kontragovor"
+
+msgid "Enable interposed questions"
+msgstr "Omogući umetnuta pitanja"
+
+msgid "Enable numbering for agenda items"
+msgstr "Omogući numeriranje stavki u dnevnom redu"
+
+msgid "Enable participant presence view"
+msgstr "Omogući prikaz prisutnosti učesnika"
+
+msgid "Enable point of order"
+msgstr "Omogući točku reda"
+
+msgid "Enable point of orders for other participants"
+msgstr "Omogućite točku naloga za ostale učesnike"
+
+msgid "Enable public meetings"
+msgstr "Omogući javne sastanke"
+
+msgid "Enable specifications and ranking for possible motions"
+msgstr "Omogućite specifikacije i rangiranje za moguće prijedloge"
+
+msgid "Enable star icon usage by speakers"
+msgstr "Omogućite ikonu zvijezde od strane govornika"
+
+msgid "Enable virtual applause"
+msgstr "Omogući virtuelni aplauz"
+
+msgid "Enable virtual help desk room"
+msgstr "Omogućite sobu za virtualnu pomoć"
+
+msgid "Enable/disable account ..."
+msgstr "Omogući / onemogući račun ..."
+
+msgid "Enable/disable accounts"
+msgstr "Omogući / onemogući račune"
+
+msgid ""
+"Enables for the selected state the possibility for submitters to change the "
+"state of the motion. Other administrative functions are excluded."
+msgstr ""
+"Omogućava podnosiocima da za odabrani status promijene "
+"status prijedloga.Ostale administrativne funkcije su isključene."
+
+msgid ""
+"Enables public access to this meeting without login data. Permissions can be"
+" set after activation in the new group 'Public'."
+msgstr ""
+"Omogućuje pristup javnosti na ovaj sastanak bez podataka o prijavi.Dozvole "
+"se mogu postaviti nakon aktiviranja u novoj grupi 'Public'."
+
+msgid "Enables the ability to create votings for motions in this state."
+msgstr "Omogućuje mogućnost stvaranja glasanja za prijedloge u ovom stanju."
+
+msgid ""
+"Enables the editing of the motion text and reason by submitters in the "
+"selected state after the motion has been created."
+msgstr ""
+"Omogućuje uređivanje teksta prijedloga-zahtjeva i razlog podnositelja u odabranom stanju"
+" nakon što je prijedlog kreiran."
+
+msgid ""
+"Enables the forwarding of amendments in the selected state.\n"
+"\n"
+"Prerequisites:\n"
+"1. Motion forwarding is activated.\n"
+"2. 'Original version with changes' in forwarding dialog must be selected."
+msgstr ""
+"Omogućava prosljeđivanje amandmana u odabranom stanju.\n"
+"\n"
+"Preduslovi:\n"
+"1. Aktivirano je prosljeđivanje amandmana.\n"
+"2. 'Mora se odabrati originalna verzija s izmjenama u dijalogu za prosljeđivanje."
+
+msgid ""
+"Enables the forwarding of motions to other meetings within the OpenSlides instance in the selected state.\n"
+"\n"
+"Prerequisites:\n"
+"1. forwarding hierarchy must be set at the organizational level in the committee.\n"
+"2. target meeting must be created.\n"
+"3. user must have group permission for forwarding."
+msgstr ""
+"Omogućuje prosljeđivanje prijedloga na druge sastanke unutar instancije E-sjednice u odabranom stanju.\n"
+"\n"
+"Preduslovi:\n"
+"1. Hijerarhija prosljeđivanja mora biti postavljena na organizacijskom nivou u Odboru.\n"
+"2 Mora se stvoriti ciljni sastanak.\n"
+"3 Korisnik mora imati grupnu dozvolu za prosljeđivanje."
+
+msgid ""
+"Enables the support function for motions in the selected state. The support "
+"function must be activated under > [Settings] > [Motions] as well as the "
+"corresponding group permission in > [Participants] > [Groups] > [Motions] > "
+"[Can support motions]."
+msgstr ""
+"Omogućuje funkciju podrške za prijedloge u odabranom stanju.Funkcija podrške"
+" mora biti aktivirana ispod> [Podešavanja]> [Amandmani] kao i odgovarajuća "
+"dozvola grupe u > [Učesnici]> [Grupe]> [Amandmani]> [može podržati prijedloge]."
+
+msgid ""
+"Enables the visibility of amendments directly in the corresponding main motion. The text of amendments is embedded within the text of the motion.\n"
+"\n"
+"Note: Does not affect the visibility of change recommendations."
+msgstr ""
+"Omogućuje vidljivost izmjena i dopuna direktno u odgovarajućem glavnom prijedlogu.Tekst amandmana ugrađen je u tekst prijedloga-zahtjeva.\n"
+"\n"
+"Napomena: Ne utiče na vidljivost preporuka za promjene."
+
+msgid "Encoding of the file"
+msgstr "Kodiranje datoteke"
+
+msgid "End date"
+msgstr "Krajnji datum"
+
+msgid "End speech"
+msgstr "Kraj govora"
+
+msgid "Enforce page breaks"
+msgstr "Primijeni prelome stranica"
+
+msgid "Enter"
+msgstr "Ući"
+
+msgid "Enter conference room"
+msgstr "Uđite u konferencijsku salu"
+
+msgid "Enter duration in seconds. Choose 0 to disable warning color."
+msgstr ""
+"Unesite trajanje u sekundama.Odaberite 0 za onemogućavanje boje upozorenja."
+
+msgid ""
+"Enter number of the next shown speakers. Choose -1 to show all next "
+"speakers."
+msgstr ""
+"Unesite broj sljedećih prikazanih govornika.Odaberite -1 da biste prikazali "
+"sve sljedeće govornike."
+
+msgid "Enter participant number"
+msgstr "Unesite broj sudionika"
+
+msgid "Enter the developer mode"
+msgstr "Uđite u režim za razvojne programere"
+
+msgid "Enter your email to send the password reset link"
+msgstr "Unesite svoju e-poštu za slanje veze za resetiranje lozinke"
+
+msgid "Entitled present users"
+msgstr "Ovlašteni trenutni korisnici"
+
+msgid "Entitled to vote"
+msgstr "Pravo na glasanje"
+
+msgid "Entitled users"
+msgstr "Ovlašteni korisnici"
+
+msgid "Error"
+msgstr "Greška"
+
+msgid "Error during PDF creation of election:"
+msgstr "Pogreška tokom kreiranja PDF-a Izbora:"
+
+msgid "Error during PDF creation of motion:"
+msgstr "Pogreška tokom kreiranja PDF-a Amandmana:"
+
+msgid "Error in form field."
+msgstr "Greška u polju forme."
+
+msgid "Error talking to autoupdate service"
+msgstr "Pogreška prilikom komunikacije sa automatskom uslugom autoupdate"
+
+msgid "Estimated end"
+msgstr "Procijenjeni završetak"
+
+msgid "Event location"
+msgstr "Lokacija događaja"
+
+msgid "Every admin in every meeting will be able to see this content."
+msgstr "Svaki administrator na svakom sastanku će moći vidjeti ovaj sadržaj."
+
+msgid ""
+"Everyone can see the request of a point of order (instead of managers for "
+"list of speakers only)"
+msgstr ""
+"Svi mogu vidjeti zahtjev tačke narudžbe (umjesto menadžera samo za popis "
+"govornika)"
+
+msgid ""
+"Existing accounts can be reused or updated by using: <ul><li>Membership "
+"number <i>(recommended)</i><li>Username<li>Email address AND first name AND "
+"last name"
+msgstr ""
+"Postojeći računi mogu se ponovo upotrijebiti ili ažurirati pomoću: <ul> <li>"
+" Broj članstva <i> (preporučeno) </ i> <li> Korisničko ime <li> Adresa "
+"e-pošte i ime i prezime i prezime i prezime"
+
+msgid "Exit conference room"
+msgstr "Izlaz iz kobferencijske sobe"
+
+msgid "Exit fullscreen"
+msgstr "Izađite iz punog ekrana"
+
+msgid "Expand all"
+msgstr "Proširiti sve"
+
+msgid "Export"
+msgstr "Izvoz"
+
+msgid "Export as CSV"
+msgstr "Izvoz kao CSV"
+
+msgid "Export as PDF"
+msgstr "Izvezi kao PDF"
+
+msgid "Export comment"
+msgstr "Komentar izvoza"
+
+msgid "Export moderator note as PDF"
+msgstr "Izvoz moderatorske bilješke kao PDF"
+
+msgid "Export personal note only"
+msgstr "Izvozite samo ličnu bilješku"
+
+msgid "Export selected elections"
+msgstr "Izvezite odabrane Izbore"
+
+msgid "Export selected motions"
+msgstr "Izvezite odabrane Amandmane"
+
+msgid "Extension"
+msgstr "Proširenje"
+
+msgid "External"
+msgstr "Vanjski"
+
+msgid "External ID"
+msgstr "Vanjski ID"
+
+msgid "Fallback"
+msgstr "Rezervna opcija"
+
+msgid "Favorites"
+msgstr "Favoriti"
+
+msgid "File"
+msgstr "Datoteka"
+
+msgid "File is being used"
+msgstr "Datoteka se koristi"
+
+msgid "File is used in:"
+msgstr "Datoteka se koristi u:"
+
+msgid "Filename"
+msgstr "Naziv datoteke"
+
+msgid "Files"
+msgstr "Datoteke"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Filtered single votes"
+msgstr "Filtrirani pojedinačni glasovi"
+
+msgid "Final version"
+msgstr "Konačna verzija"
+
+msgid "Finished"
+msgstr "Gotov"
+
+msgid "First speech"
+msgstr "Prvi govor"
+
+msgid "First state"
+msgstr "Prvo stanje"
+
+msgid "Follow recommendation"
+msgstr "Slijedite preporuku"
+
+msgid "Follow recommendations for all motions"
+msgstr "Slijedite preporuke za sve prijedloge"
+
+msgid "Following users are currently editing this motion:"
+msgstr "Sljedeći korisnici trenutno uređuju ovaj amandman:"
+
+msgid "Font bold"
+msgstr "Font Bold"
+
+msgid "Font bold italic"
+msgstr "Font Bold Italic"
+
+msgid "Font italic"
+msgstr "Font Italic"
+
+msgid "Font monospace"
+msgstr "Font monopace"
+
+msgid "Font regular"
+msgstr "FONT Regular"
+
+msgid "Font size in pt"
+msgstr "Veličina fonta u pt"
+
+msgid ""
+"For activation:<br>\n"
+"                        1. Assign group permission (define the group that can support motions)<br>\n"
+"                        2. Adjust workflow (define state in which motions can be supported)<br>\n"
+"                        3. Enter minimum number (see next field)"
+msgstr ""
+"Za aktiviranje: <br>\n"
+"1. Dodijelite grupnu dozvolu (definirajte grupu koja može podržati prijedloge) <br>\n"
+"2. Prilagodite tijek rada (definirajte stanje u kojem se mogu podržati prijedlozi) <br>\n"
+"3. Unesite minimalni broj (vidi sljedeće polje)"
+
+msgid ""
+"For large instances this may block the server to the point of unusability"
+msgstr "Za velike instance ovo može blokirati server na točku neupotrebljivosti"
+
+msgid "Foreground color"
+msgstr "Boja prednjeg plana"
+
+msgid "Forgot Password?"
+msgstr "Zaboravili ste lozinku?"
+
+msgid "Formalities"
+msgstr "Formalnosti"
+
+msgid "Forspeech"
+msgstr "Zabrana govora"
+
+msgid "Forward"
+msgstr "Naprijed"
+
+msgid "Forward motions"
+msgstr "Proslijedi amandman"
+
+msgid "Forward motions to"
+msgstr "Proslijedi prijedlog za"
+
+msgid "Forwarded motion deleted"
+msgstr "Proslijeđene izmjene izbrisane"
+
+msgid "Forwarded to {}"
+msgstr "Proslijeđen na {}"
+
+msgid "Forwarding"
+msgstr "Prosljeđivanje"
+
+msgid "Forwarding created"
+msgstr "Prosljeđivanje kreirano"
+
+msgid "Forwarding of motion"
+msgstr "Prosljeđivanje prijedloga-zahtjeva"
+
+msgid "Front page title"
+msgstr "Naslov početne strane"
+
+msgid "Full name"
+msgstr "Puno ime"
+
+msgid "Fullscreen"
+msgstr "Puni ekran"
+
+msgid "Game draw!"
+msgstr "Drav igra!"
+
+msgid "Gender"
+msgstr "Spol"
+
+msgid "Genders"
+msgstr "Spolovi"
+
+msgid "General"
+msgstr "Opći"
+
+msgid "General abstain"
+msgstr "Općenito uzdržan"
+
+msgid "General approval"
+msgstr "Općeenito odobren"
+
+msgid "General rejection"
+msgstr "Općenito odbačen"
+
+msgid "Generate new color"
+msgstr "Generirajte novu boju"
+
+msgid "Generate new passwords"
+msgstr "Generirati nove lozinke"
+
+msgid "Generate password"
+msgstr "Generirajte lozinku"
+
+msgid "Give applause"
+msgstr "Dajte aplauz"
+
+msgid "Given name"
+msgstr "Ime"
+
+msgid "Global headbar color"
+msgstr "Globalna boja za naslovni bar"
+
+msgid "Go to line"
+msgstr "Ići na red"
+
+msgid "Got an email"
+msgstr "Dobio e-poštu"
+
+msgid "Group"
+msgstr "Grupa"
+
+msgid "Group name"
+msgstr "Naziv grupe"
+
+msgid "Group not found. Account added to the group “Default”."
+msgstr "Grupa nije pronađena.Račun dodan u grupu \"Default\"."
+
+msgid "Group not found. Account already belongs to another group."
+msgstr "Grupa nije pronađena.Račun već pripada drugoj grupi."
+
+msgid "Groups"
+msgstr "Grupe"
+
+msgid "Groups changed in meeting {}"
+msgstr "Grupe se promijenile u sastanku {}"
+
+msgid "Groups changed in multiple meetings"
+msgstr "Grupe su se promijenile na više sastanka"
+
+msgid "Groups with read permissions"
+msgstr "Grupe sa dozvolama za čitanje"
+
+msgid "Groups with write permissions"
+msgstr "Grupe sa dozvolama za pisanje"
+
+msgid "Has SSO identification"
+msgstr "Ima identifikaciju SSO-a"
+
+msgid "Has a home committee"
+msgstr "Ima matičnu komisiju"
+
+msgid "Has a membership number"
+msgstr "Ima broj članstva"
+
+msgid "Has amendments"
+msgstr "Ima amandmane"
+
+msgid "Has an email address"
+msgstr "Ima adresu e-pošte"
+
+msgid "Has changed vote weight"
+msgstr "Promijenio je težinu glasa"
+
+msgid "Has email"
+msgstr "Ima e-poštu"
+
+msgid "Has forwardings"
+msgstr "Ima prosljeđivanje"
+
+msgid "Has identical motions"
+msgstr "Ima identične prijedloge-zahtjeve"
+
+msgid "Has logged in"
+msgstr "Prijavio se"
+
+msgid "Has no SSO identification"
+msgstr "Nema identifikaciju SSO-a"
+
+msgid "Has no email address"
+msgstr "Nema adresu e-pošte"
+
+msgid "Has no home committee"
+msgstr "Nema matičnog odbora"
+
+msgid "Has no identical motions"
+msgstr "Nema identične prijedloge-zahtjeve"
+
+msgid "Has no membership number"
+msgstr "Nema broj članstva"
+
+msgid "Has no speakers"
+msgstr "Nema govornika"
+
+msgid "Has not logged in yet"
+msgstr "Još nije prijavljen"
+
+msgid "Has not spoken"
+msgstr "Nije govorio"
+
+msgid "Has not voted"
+msgstr "Nije glasao"
+
+msgid "Has notes"
+msgstr "Ima beleške"
+
+msgid "Has speakers"
+msgstr "Ima govornike"
+
+msgid "Has spoken"
+msgstr "Je govorio"
+
+msgid "Has unchanged vote weight"
+msgstr "Ima nepromijenjenu težinu glasa"
+
+msgid "Has voted"
+msgstr "Glasao je"
+
+msgid "Header"
+msgstr "Zaglavlje"
+
+msgid "Header and footer"
+msgstr "Zaglavlje i podnožje"
+
+msgid "Header background color"
+msgstr "Boja pozadine zaglavlja"
+
+msgid "Header font color"
+msgstr "Boja fonta zaglavlja"
+
+msgid "Heading"
+msgstr "Naslov"
+
+msgid "Headings"
+msgstr "Naslovi"
+
+msgid "Headline color"
+msgstr "Boja naslova"
+
+msgid "Help desk"
+msgstr "Služba za pomoć"
+
+msgid "Help text for access data and welcome PDF"
+msgstr "Tekst pomoći za pristup podacima i PDF dobrodošlice"
+
+msgid "Hidden item"
+msgstr "Skrivena stavka"
+
+msgid "Hide"
+msgstr "Sakriti"
+
+msgid "Hide main menu"
+msgstr "Sakrij glavni meni"
+
+msgid "Hide more text"
+msgstr "Sakrij više teksta"
+
+msgid "Hide note on number of multiple contributions"
+msgstr "Sakrij bilješku po broju višestrukih doprinosa"
+
+msgid "Hide password"
+msgstr "Sakrij lozinku"
+
+msgid "Highest applause amount"
+msgstr "Najviši iznos aplauza"
+
+msgid "Hint on voting"
+msgstr "Savjet na glasanju"
+
+msgid "History"
+msgstr "Istorija"
+
+msgid "Home"
+msgstr "Početna"
+
+msgid "Home committee"
+msgstr "Matični odbor"
+
+msgid "How to create new amendments"
+msgstr "Kako stvoriti nove amandmane"
+
+msgid "I know the risk"
+msgstr "Znam rizik"
+
+msgid ""
+"IMPORTANT: The sender address (noreply@openslides.com) is defined in the OpenSlides server settings and cannot be changed here.\n"
+"                            To receive replies you have to enter a reply address in the next field. Please test the email dispatch in case of changes!"
+msgstr ""
+"Važno: Adresa pošiljatelja (info@e-sjednice.com) definirana je u postavkama servera E-Sjednice i ne može se promijeniti ovdje.\n"
+"Da biste primili odgovore, u sljedećem polju morate unijeti adresu odgovora.Ispitajte otpremu e-pošte u slučaju promjena!"
+
+msgid "Identical motions"
+msgstr "Identični amandmani"
+
+msgid "Identical with"
+msgstr "Identičan sa"
+
+msgid "Identifier"
+msgstr "Identifikator"
+
+msgid "If deactivated it is displayed below the title."
+msgstr "Ako je deaktivirano, prikazuje se ispod naslova."
+
+msgid "If empty, everyone can access."
+msgstr "Ako je prazno, svi mogu pristupiti."
+
+msgid "If the value is set to 0 the time counts up as stopwatch."
+msgstr "Ako je vrijednost postavljena na 0 Vrijeme se računa kao štoperica."
+
+msgid ""
+"If your email address exists in our database, you will receive a password "
+"reset email."
+msgstr ""
+"Ako vaša adresa e-pošte postoji u našoj bazi podataka, dobit ćete e-poštu za"
+" resetiranje lozinke."
+
+msgid "Image description"
+msgstr "Opis slike"
+
+msgid "Import"
+msgstr "Uvoz"
+
+msgid "Import accounts"
+msgstr "Uvoz računa"
+
+msgid "Import committees"
+msgstr "Uvezi odbore"
+
+msgid "Import data needs to have the JSON format"
+msgstr "Za Uvoz podatci trebaju imati json format"
+
+msgid "Import meeting"
+msgstr "Uvezi sastanak"
+
+msgid "Import participants"
+msgstr "Uvezi učesnike"
+
+msgid "Import successful"
+msgstr "Uvoz uspešan"
+
+msgid "Import successful with some warnings"
+msgstr "Uvoz je uspio uz neka upozorenja"
+
+msgid "Import topics"
+msgstr "Uvezi teme"
+
+msgid "Import workflows"
+msgstr "Uvoz tokova rada"
+
+msgid "Important: New groups are not created."
+msgstr "VAŽNO: Nove grupe se ne stvaraju."
+
+msgid "In motion list, motion detail and PDF."
+msgstr "Na popisu prijedloga-zahtjeva, detalj prijedloga-zahtjeva i PDF."
+
+msgid "In progress, please wait ..."
+msgstr "U toku, pričekajte ..."
+
+msgid "In the election process"
+msgstr "U izbornom procesu"
+
+msgid "Inactive"
+msgstr "Neaktivan"
+
+msgid "Inconsistent data."
+msgstr "Nedosljedni podaci."
+
+msgid "Inconsistent data. Please delete this change recommendation."
+msgstr "Nedosljedni podaci.Izbrišite ovu promjenu preporuke."
+
+msgid "Information"
+msgstr "Informacije"
+
+msgid "Initial password"
+msgstr "Početna lozinka"
+
+msgid "Inline"
+msgstr "Inline"
+
+msgid "Insert after"
+msgstr "Umetnuti nakon"
+
+msgid "Insert before"
+msgstr "Ubaciti prije"
+
+msgid "Insert behind"
+msgstr "Ubaciti iza"
+
+msgid "Insert topics here"
+msgstr "Ovdje umetnite teme"
+
+msgid "Insert/Edit Link"
+msgstr "Umetanje / uređivanje veze"
+
+msgid "Insert/edit image"
+msgstr "Umetanje / uređivanje slike"
+
+msgid "Insert/edit link"
+msgstr "Umetanje / uređivanje veze"
+
+msgid "Insertion"
+msgstr "Umetanje"
+
+msgid "Insufficient material! It's a draw!"
+msgstr "Nedovoljno materijala! Neriješeno!"
+
+msgid "Internal"
+msgstr "Unutrašnji"
+
+msgid "Internal item"
+msgstr "Interna stavka"
+
+msgid "Internal login"
+msgstr "Interna prijava"
+
+msgid "Interposed question"
+msgstr "Umetnuto pitanje"
+
+msgid "Intervention"
+msgstr "Intervencija"
+
+msgid "Intervention speaking time in seconds"
+msgstr "Interventno govorenje u sekundama"
+
+msgid "Invalid line number"
+msgstr "Nevažeći broj linije"
+
+msgid "Invalid votes"
+msgstr "Nevažeći glasovi"
+
+msgid "Invite to conference room"
+msgstr "Pozovite u konferencijsku sobu"
+
+msgid "Is a committee"
+msgstr "Je odbor"
+
+msgid "Is a natural person"
+msgstr "Je fizička osoba"
+
+msgid "Is a template"
+msgstr "Je predložak"
+
+msgid "Is active"
+msgstr "Je aktivan"
+
+msgid ""
+"Is allowed to add himself/herself to the list of speakers.\n"
+"\n"
+"Note:\n"
+"Optional combination of requests to speak with presence status is possible. ( > [Settings] > [List of speakers] > [General] )"
+msgstr ""
+"Dozvoljeno je dodati se na popis govornika.\n"
+"\n"
+"Napomena:\n"
+"Moguće je opciona kombinacija zahtjeva za govor sa statusom prisutnosti.(> [Podešavanja]> [Lista govornika]> [General])"
+
+msgid "Is already projected"
+msgstr "Već se projicira"
+
+msgid "Is amendment"
+msgstr "Je amandman"
+
+msgid "Is archived"
+msgstr "Je arhiviran"
+
+msgid "Is being projected"
+msgstr "Projicira se"
+
+msgid "Is candidate"
+msgstr "Je kandidat"
+
+msgid "Is closed"
+msgstr "Je zatvoren"
+
+msgid "Is committee admin"
+msgstr "Je administrator odbora"
+
+msgid "Is external"
+msgstr "Je vanjski"
+
+msgid "Is favorite"
+msgstr "Omiljen je"
+
+msgid "Is in active meetings"
+msgstr "Je na aktivnim sastancima"
+
+msgid "Is in archived meetings"
+msgstr "Je u arhiviranim sastancima"
+
+msgid "Is locked out"
+msgstr "Je zaključan"
+
+msgid "Is manager"
+msgstr "Je menadžer"
+
+msgid "Is no amendment and has no amendments"
+msgstr "Nije amandman i nema amandmana"
+
+msgid "Is no natural person"
+msgstr "Nije fizička osoba"
+
+msgid "Is not a committee"
+msgstr "Nije odbor"
+
+msgid "Is not a template"
+msgstr "Nije predložak"
+
+msgid "Is not active"
+msgstr "Nije aktivan"
+
+msgid "Is not an amendment"
+msgstr "Nije amandman"
+
+msgid "Is not archived"
+msgstr "Nije arhiviran"
+
+msgid "Is not external"
+msgstr "Nije vanjski"
+
+msgid "Is not favorite"
+msgstr "Nije omiljen"
+
+msgid "Is not in active meetings"
+msgstr "Nije na aktivnim sastancima"
+
+msgid "Is not in archived meetings"
+msgstr "Nije u arhiviranim sastancima"
+
+msgid "Is not present"
+msgstr "Nije prisutan"
+
+msgid "Is not public"
+msgstr "Nije javno"
+
+msgid "Is present"
+msgstr "Je prisutan"
+
+msgid "Is public"
+msgstr "Je javno"
+
+msgid "Is speaker"
+msgstr "Je govornik"
+
+msgid "Is submitter"
+msgstr "Je podnosilac"
+
+msgid ""
+"It is not allowed to delete countdowns used for list of speakers or polls"
+msgstr ""
+"Nije dozvoljeno brisati odbrojavanja koja se koriste za listu govornika ili ankete"
+
+msgid ""
+"It is not allowed to set the permisson 'Can manage participants' to a locked"
+" out user. Please unset the lockout state before adding a group with this "
+"permission."
+msgstr ""
+"Nije dopušteno postavljanje privilegija \"može upravljati učesnicima\" u "
+"zaključanom korisniku.Nemojte podijeliti stanje zaključavanja prije "
+"dodavanja grupe s ovom dozvolom."
+
+msgid "It's a draw!"
+msgstr "Neriješeno je!"
+
+msgid "It's your opponent's turn"
+msgstr "Na redu je tvoj protivnik"
+
+msgid "It's your turn!"
+msgstr "Tvoj je red!"
+
+msgid "Italic"
+msgstr "Italic"
+
+msgid "Item"
+msgstr "Predmet"
+
+msgid "Item number"
+msgstr "Broj predmeta"
+
+msgid "Items"
+msgstr "Predmeti"
+
+msgid "Jitsi domain"
+msgstr "Jitsi Domena"
+
+msgid "Jitsi room name"
+msgstr "Jitsi naziv sobe"
+
+msgid "Jitsi room password"
+msgstr "Jitsi lozinka za sobu"
+
+msgid "Justify"
+msgstr "Poravnaj"
+
+msgid "Keep each item in a single line."
+msgstr "Svaku stavku čuvajte u jednoj liniji."
+
+msgid "Label color"
+msgstr "Boja etiketa"
+
+msgid "Language"
+msgstr "Jezik"
+
+msgid "Last email sent"
+msgstr "Posljednja e-pošta poslana"
+
+msgid "Last login"
+msgstr "Posljednja prijava"
+
+msgid "Last modified"
+msgstr "Zadnja izmjena"
+
+msgid "Last speakers"
+msgstr "Poslednji govornici"
+
+msgid "Leave"
+msgstr "Napustiti"
+
+msgid "Leave blank to automatically generate the password."
+msgstr "Ostavite prazno da automatski generira lozinku."
+
+msgid "Leave blank to automatically generate the username."
+msgstr "Ostavite prazno da automatski generira korisničko ime."
+
+msgid "Left"
+msgstr "Lijevo"
+
+msgid "Legal notice"
+msgstr "Pravna napomena"
+
+msgid "Less"
+msgstr "Manje"
+
+msgid "Level indicator"
+msgstr "Indikator nivoa"
+
+msgid "Light mode"
+msgstr "Svijetlii režim"
+
+msgid "Limit of active accounts"
+msgstr "Ograničenje aktivnih računa"
+
+msgid "Limit of active meetings"
+msgstr "Ograničenje aktivnih sastanaka"
+
+msgid "Line"
+msgstr "Linija"
+
+msgid "Line length"
+msgstr "Dužina linije"
+
+msgid "Line numbering"
+msgstr "Broj linije"
+
+msgid "Line spacing"
+msgstr "Linijski razmak"
+
+msgid "List of amendments: "
+msgstr "Lista amandmana:"
+
+msgid "List of electronic votes"
+msgstr "Lista elektroničkih glasova"
+
+msgid "List of participants"
+msgstr "Lista učesnika"
+
+msgid "List of participants (PDF)"
+msgstr "Lista učesnika (PDF)"
+
+msgid "List of speakers"
+msgstr "Lista govornika"
+
+msgid "List of speakers as overlay"
+msgstr "Lista govornika kao prekrivni sloj"
+
+msgid "List of speakers is initially closed"
+msgstr "Lista govornika u početku je zatvorena"
+
+msgid "List view"
+msgstr "Pregled liste"
+
+msgid "Lists of speakers"
+msgstr "Lista govornika"
+
+msgid "Live conference"
+msgstr "Konferencija uživo"
+
+msgid "Live voting enabled"
+msgstr "Omogućeno glasanje uživo"
+
+msgid "Livestream"
+msgstr "Livestream"
+
+msgid "Livestream URL"
+msgstr "Livestream URL"
+
+msgid "Livestream poster image"
+msgstr "Livestream poster slika"
+
+msgid "Livestream poster image url"
+msgstr "Livestream poster slika URL"
+
+msgid "Loading data. Please wait ..."
+msgstr "Učitavanje podataka.Molimo pričekajte ..."
+
+msgid "Lock out user from this meeting."
+msgstr "Zaključajte korisnika s ovog sastanka."
+
+msgid "Locked out"
+msgstr "Zaključan"
+
+msgid "Logged-in users"
+msgstr "Prijavljeni korisnici"
+
+msgid "Login"
+msgstr "Prijaviti se"
+
+msgid "Login anyway"
+msgstr "Prijavite se ionako"
+
+msgid "Login button text"
+msgstr "Tekst dugmeta za prijavu"
+
+msgid "Logout"
+msgstr "Odjaviti"
+
+msgid "Lowest applause amount"
+msgstr "Iznos najnižeg aplauza"
+
+msgid "Main motion and line number"
+msgstr "Glavni amandman i broj linije"
+
+msgid ""
+"Make background color from meta information box on the projector transparent"
+msgstr ""
+"Učini boju pozadine iz okvira s meta informacijama na projektoru prozirnom"
+
+msgid "Mandates switched sucessfully!"
+msgstr "Mandati su uspješno prebačeni!"
+
+msgid "Mark as personal favorite"
+msgstr "Označi kao lični favorit"
+
+msgid "Max votes cannot be greater than options."
+msgstr "Maksimalan broj glasova ne može biti veći od broja opcija."
+
+msgid "Max votes per option cannot be greater than max votes."
+msgstr "Maksimalni glasovi po opciji ne može biti veći od max glasova."
+
+msgid "Maximum amount of votes"
+msgstr "Maksimalni iznos glasova"
+
+msgid "Maximum amount of votes per option"
+msgstr "Maksimalni iznos glasova po opciji"
+
+msgid "Maximum number of columns in motion block projection"
+msgstr "Maksimalni broj stupaca u projekciji bloka prijedloga-zahtjeva"
+
+msgid "Maximum number of columns in single votes projection"
+msgstr "Maksimalan broj kolona u projekciji pojedinačnih glasova"
+
+msgid "Media access is denied"
+msgstr "Pristup medijima je odbijen"
+
+msgid "Media file"
+msgstr "Media datoteka"
+
+msgid "Meeting"
+msgstr "Sastanak"
+
+msgid "Meeting administrator"
+msgstr "Administrator sastanka"
+
+msgid "Meeting date"
+msgstr "Datum sastanka"
+
+msgid "Meeting information"
+msgstr "Informacije o sastanku"
+
+msgid "Meeting is closed"
+msgstr "Sastanak je zatvoren"
+
+msgid "Meeting not found"
+msgstr "Sastanak nije pronađen"
+
+msgid "Meeting specific information"
+msgstr "Posebne informacije za sastanak"
+
+msgid "Meeting template"
+msgstr "Predložak sastanka"
+
+msgid ""
+"Meeting templates and the data they contain are publicly viewable by all "
+"committee administrators."
+msgstr ""
+"Predlošci sastanaka i podaci koje oni sadrže javno su vidljivi svim "
+"administratorima odbora."
+
+msgid "Meeting title"
+msgstr "Naslov sastanka"
+
+msgid "Meetings"
+msgstr "Sastanci"
+
+msgid "Meetings affected:"
+msgstr "Pogođeni(afektirani) sastanci:"
+
+msgid "Meetings selected"
+msgstr "Odabran sastank"
+
+msgid "Membership number"
+msgstr "Broj članstva"
+
+msgid "Merge"
+msgstr "Spajanje"
+
+msgid "Merge accounts"
+msgstr "Spajanje računa"
+
+msgid "Message"
+msgstr "Poruka"
+
+msgid "Messages"
+msgstr "Poruke"
+
+msgid "Meta information"
+msgstr "Meta informacije"
+
+msgid "Metadata of Identity Provider (IdP)"
+msgstr "Metapozicija davatelja identiteta (IdP)"
+
+msgid "Metadata of Service Provider (SP)"
+msgstr "Metapozicija pružatelja usluga (SP)"
+
+msgid "Min votes cannot be greater than max votes."
+msgstr "Min Glasovi ne mogu biti veći od max glasova."
+
+msgid "Minimal required version"
+msgstr "Minimalna potrebna verzija"
+
+msgid "Minimize"
+msgstr "Minimizirati"
+
+msgid "Minimum amount of votes"
+msgstr "Minimalni iznos glasova"
+
+msgid "Minimum number of digits for motion identifier"
+msgstr "Minimalni broj cifara za identifikator prijedloga-zahtjeva"
+
+msgid "Moderation note"
+msgstr "Napomena o moderiranju"
+
+msgid "Moderation-Note"
+msgstr "Napomena o moderiranju"
+
+msgid "Modern"
+msgstr "Moderan"
+
+msgid "Modify design"
+msgstr "Izmijenite dizajn"
+
+msgid "Module"
+msgstr "Modul"
+
+msgid "More"
+msgstr "Više"
+
+msgid "Motion"
+msgstr "Amandman"
+
+msgid "Motion block"
+msgstr "Prijedlog-Zahtjev blok"
+
+msgid "Motion block changed"
+msgstr "Promijenjen blok Prijedloga-Zahtjeva"
+
+msgid "Motion block removed"
+msgstr "Bloka amandmana uklonjen"
+
+msgid "Motion block set to {}"
+msgstr "Blok Amandmana postavljen na {}"
+
+msgid "Motion blocks"
+msgstr "Blokovi amandmana"
+
+msgid "Motion change recommendation created"
+msgstr "Izmjena amandmana - preporuka kreirana"
+
+msgid "Motion change recommendation deleted"
+msgstr "Izmjena amandmana - preporuka izbrisana"
+
+msgid "Motion change recommendation updated"
+msgstr "Preporuka za promjenu amandmana ažurirana"
+
+msgid "Motion changed"
+msgstr "Amandman izmijenjen"
+
+msgid "Motion created"
+msgstr "Amandman"
+
+msgid "Motion created (forwarded)"
+msgstr "Amandman kreiran (proslijeđeno)"
+
+msgid "Motion deleted"
+msgstr "Amandman izbrisan"
+
+msgid "Motion editor"
+msgstr "Urednik Amandmana"
+
+msgid "Motion editors"
+msgstr "Urednici Amandmana"
+
+msgid "Motion forwarded to"
+msgstr "Amandman proslijeđen za"
+
+msgid "Motion forwarding"
+msgstr "Prosljeđivanje Amandmana"
+
+msgid "Motion identifier"
+msgstr "Identifikator Amandmana"
+
+msgid "Motion preamble"
+msgstr "Preambula prijedloga"
+
+msgid "Motion updated"
+msgstr "Amandman ažuriran"
+
+msgid "Motion version"
+msgstr "Verzija amandmana"
+
+msgid "Motion votes"
+msgstr "Glasovi amandmana"
+
+msgid "Motions"
+msgstr "Amandmani"
+
+msgid "Motions (PDF settings)"
+msgstr "Amandmani (PDF postavke)"
+
+msgid "Motions are in process. Please wait ..."
+msgstr "Prijedlozi su u obradi. Molimo pričekajte. ..."
+
+msgid "Move"
+msgstr "Pomaknuti"
+
+msgid "Move in call list"
+msgstr "Pomaknite se na popisu poziva"
+
+msgid "Move into directory"
+msgstr "Prebaciti u direktorij"
+
+msgid "Move selected items ..."
+msgstr "Prebaci odabrane stavke ..."
+
+msgid "Move to agenda item"
+msgstr "Prebacite u stavke dnevnog reda"
+
+msgid "Multiple users found for same username!"
+msgstr "Višestruki korisnici pronađeni za isto korisničko ime!"
+
+msgid "Multiple users with same credentials!"
+msgstr "Više korisnika s istim vjerodajnicama!"
+
+msgid "Multiselect"
+msgstr "Višestruki odabir"
+
+msgid "Must be unique"
+msgstr "Mora biti jedinstveno"
+
+msgid "My account"
+msgstr "Moj račun"
+
+msgid "My meetings"
+msgstr "Moji sastanci"
+
+msgid "My profile"
+msgstr "Moj profil"
+
+msgid "Name"
+msgstr "Ime"
+
+msgid "Name of recommender"
+msgstr "Naziv preporuke"
+
+msgid "Name of the new category"
+msgstr "Naziv nove kategorije"
+
+msgid "Natural person"
+msgstr "Fizička osoba"
+
+msgid "Navigate to account page from "
+msgstr "Dođite do stranice računa"
+
+msgid "Navigate to committee detail view from "
+msgstr "Navigacija do prikaza detalja odbora iz"
+
+msgid "Navigate to meeting "
+msgstr "Navigacija do sastanka"
+
+msgid "Navigate to motion"
+msgstr "Navigacija do amandmana"
+
+msgid "Navigate to participant page from "
+msgstr "Dođite do stranice za sudjelovanje"
+
+msgid "Navigate to the folder"
+msgstr "Dođite do mape"
+
+msgid "Negative votes are not allowed."
+msgstr "Negativni glasovi nisu dozvoljeni."
+
+msgid "Never"
+msgstr "Nikad"
+
+msgid "New account"
+msgstr "Novi račun"
+
+msgid "New amendment"
+msgstr "Novi amandman"
+
+msgid "New ballot"
+msgstr "Novi glasački listić"
+
+msgid "New category"
+msgstr "Nova kategorija"
+
+msgid "New change recommendation"
+msgstr "Nova promjena u preporukama"
+
+msgid "New chat group"
+msgstr "Nova chat grupa"
+
+msgid "New comment field"
+msgstr "Novo polje za komentar"
+
+msgid "New committee"
+msgstr "Novi odbor"
+
+msgid "New design"
+msgstr "Novi dizajn"
+
+msgid "New directory"
+msgstr "Novi direktorij"
+
+msgid "New election"
+msgstr "Novi izbori"
+
+msgid "New file"
+msgstr "Nova datoteka"
+
+msgid "New file name"
+msgstr "Novo ime datoteke"
+
+msgid "New folder"
+msgstr "Nova mapa"
+
+msgid "New gender"
+msgstr "Novi rod"
+
+msgid "New group"
+msgstr "Nova grupa"
+
+msgid "New meeting"
+msgstr "Novi sastanak"
+
+msgid "New motion"
+msgstr "Novi amandman"
+
+msgid "New motion block"
+msgstr "Novi blok amandmana"
+
+msgid "New option"
+msgstr "Nova opcija"
+
+msgid "New participant"
+msgstr "Novi učesnik"
+
+msgid "New password"
+msgstr "Nova lozinka"
+
+msgid "New projector"
+msgstr "Novi projektor"
+
+msgid "New state"
+msgstr "Novo stanje"
+
+msgid "New tag"
+msgstr "Nova oznaka"
+
+msgid "New topic"
+msgstr "Nova tema"
+
+msgid "New vote"
+msgstr "Novi glas"
+
+msgid "New window"
+msgstr "Novi prozor"
+
+msgid "New workflow"
+msgstr "Novi tijek rada"
+
+msgid "Next"
+msgstr "Sljedeći"
+
+msgid "Next page"
+msgstr "Sljedeća stranica"
+
+msgid "Next states"
+msgstr "Sljedeći statusi"
+
+msgid "No"
+msgstr "Ne"
+
+msgid "No admin role"
+msgstr "Nema administrativne uloge"
+
+msgid "No category"
+msgstr "Nema kategorije"
+
+msgid "No changes at the text."
+msgstr "Nema promjena u tekstu."
+
+msgid "No chat groups available"
+msgstr "Nema dostupnih grupa chata"
+
+msgid "No comment"
+msgstr "Nema komentara"
+
+msgid "No committee admin"
+msgstr "Nema administratora odbora"
+
+msgid "No data"
+msgstr "Nema podataka"
+
+msgid "No data available"
+msgstr "Nema dostupnih podataka"
+
+msgid "No delegation of vote"
+msgstr "Nema delegiranja glasa"
+
+msgid "No emails were send."
+msgstr "Nisu poslani e-mailovi."
+
+msgid "No encryption"
+msgstr "Nema enkripcije"
+
+msgid "No forwardings"
+msgstr "Nema prosljeđivanja"
+
+msgid "No group name has been entered."
+msgstr "Nije uneseno ime grupe."
+
+msgid "No groups selected"
+msgstr "Nisu odabrane grupe"
+
+msgid "No items selected"
+msgstr "Nije odabrana nijedna stavka"
+
+msgid "No meeting selected"
+msgstr "Nije odabran nijedan sastanak"
+
+msgid "No meetings available"
+msgstr "Nema dostupnih sastanaka"
+
+msgid "No meetings have been selected."
+msgstr "Nije odabran nijedan sastanak."
+
+msgid "No one has voted for this poll"
+msgstr "Niko nije glasao za ovu anketu"
+
+msgid "No options found"
+msgstr "Nije pronađena nijedna opcija"
+
+msgid "No per candidate"
+msgstr "Ne po kandidatu"
+
+msgid "No personal note"
+msgstr "Nema lične napomene"
+
+msgid "No results found"
+msgstr "Nisu pronađeni rezultati"
+
+msgid "No results yet"
+msgstr "Još nema rezultata"
+
+msgid "No results yet."
+msgstr "Još nema rezultata."
+
+msgid "No structure level"
+msgstr "Nema nivoa strukture"
+
+msgid "No verbose name is defined"
+msgstr "Nije definirano detaljno ime"
+
+msgid "No."
+msgstr "Ne."
+
+msgid "Nomination list"
+msgstr "Lista nominacija"
+
+msgid "None"
+msgstr "Nijedan"
+
+msgid "None of the selected motions can be forwarded."
+msgstr "Nijedan od odabranih prijedloga ne može biti proslijeđen."
+
+msgid "Normal (http/2)"
+msgstr "Normal (http/2)"
+
+msgid "Not found"
+msgstr "Nije pronađeno"
+
+msgid "Not locked out"
+msgstr "Nije zaključano"
+
+msgid ""
+"Note, that the default password will be changed to the new generated one."
+msgstr ""
+"Imajte na umu da će se zadana lozinka promijeniti u novogeneriranu."
+
+msgid "Note: Amendments cannot be forwarded without their parent motion."
+msgstr "Napomena: Amandmani se ne mogu proslijediti bez njihovog matičnog prijedloga."
+
+msgid "Note: Amendments will not be forwarded."
+msgstr "Napomena: Amandmani neće biti proslijeđeni."
+
+msgid ""
+"Note: The public access setting is deactivated for the organization. Please "
+"contact your admins or hosting providers to activate the setting."
+msgstr ""
+"Napomena: Postavka javnog pristupa je deaktivirana za organizaciju. Molimo "
+"kontaktirajte administratore ili pružatelje usluga hostinga da biste aktivirali postavku."
+
+msgid ""
+"Note: Your own password was not changed. Please use the password change "
+"dialog instead."
+msgstr ""
+"Napomena: Vaša lozinka nije promijenjena. Molimo koristite formu za promjenu lozinke. "
+"umjesto toga."
+
+msgid "Notes"
+msgstr "Bilješke"
+
+msgid "Notes and Comments"
+msgstr "Bilješke i komentari"
+
+msgid "Number"
+msgstr "Broj"
+
+msgid "Number candidates"
+msgstr "Broj kandidata"
+
+msgid "Number motions"
+msgstr "Broj prijedloga"
+
+msgid "Number of (minimum) required supporters for a motion"
+msgstr "Minimalni broj potrebnih pristalica za prijedlog"
+
+msgid "Number of all delegates"
+msgstr "Broj svih delagata"
+
+msgid "Number of all participants"
+msgstr "Broj svih učesnika"
+
+msgid "Number of all requests to speak"
+msgstr "Broj svih govornika"
+
+msgid "Number of ballot papers"
+msgstr "Broj papirnih glasačkih listića"
+
+msgid "Number of candidates"
+msgstr "Broj kandidata"
+
+msgid "Number of last speakers to be shown on the projector"
+msgstr "Broj posljednjih govornika koji će biti prikazani na projektoru"
+
+msgid "Number of motions"
+msgstr "Broj amandmana"
+
+msgid ""
+"Number of next speakers automatically connecting to the live conference"
+msgstr "Broj sljedećih govornika automatski se povezuje na konferenciju uživo"
+
+msgid "Number of open requests to speak"
+msgstr "Broj otvorenih zahtjeva za govor"
+
+msgid "Number of participants"
+msgstr "Broj učesnika"
+
+msgid "Number of persons to be elected"
+msgstr "Broj osoba koje će biti izabrane"
+
+msgid "Number of requests to speak"
+msgstr "Broj zahtjeva za govor"
+
+msgid "Number of the next speakers to be shown on the projector"
+msgstr "Broj sljedećih govornika koji će se prikazati na projektoru"
+
+msgid "Number set"
+msgstr "Postavke broja"
+
+msgid "Numbered list"
+msgstr "Numerirana lista"
+
+msgid "Numbered per category"
+msgstr "Numerisan po kategoriji"
+
+msgid "Numbering"
+msgstr "Numeriranje"
+
+msgid "Numbering and sorting"
+msgstr "Numerisanje i sortiranje"
+
+msgid "Numbering prefix for agenda items"
+msgstr "Numerički prefiks za stavke dnevnog reda"
+
+msgid "Numeral system for agenda items"
+msgstr "Numerički sistem za stavke dnevnog reda"
+
+msgid "OK"
+msgstr "U redu"
+
+msgid "OR"
+msgstr "Ili"
+
+msgid "Off"
+msgstr "Off"
+
+msgid "Offline mode"
+msgstr "Offline mod"
+
+msgid "Ok"
+msgstr "U redu"
+
+msgid "Old account of"
+msgstr "Stari račun o"
+
+msgid "Old password"
+msgstr "Stara lozinka"
+
+msgid "On"
+msgstr "Na"
+
+msgid "One email was send sucessfully."
+msgstr "Jedan email je uspješno poslan."
+
+msgid "Only available for nominal voting"
+msgstr "Dostupno samo za nominalno glasanje"
+
+msgid "Only for internal notes."
+msgstr "Samo za interne beleške."
+
+msgid "Only for nominal votes."
+msgstr "Samo za nominalne glasove."
+
+msgid "Only groups and participant number are switched."
+msgstr "Zamjenjuju se samo grupe i broj učesnika."
+
+msgid "Only main agenda items"
+msgstr "Samo glavne stavke dnevnog reda"
+
+msgid "Only present participants can be added to the list of speakers"
+msgstr "Samo prisutni učesnici mogu biti dodani na listu govornika"
+
+msgid "Only time"
+msgstr "Samo vrijeme"
+
+msgid "Only traffic light"
+msgstr "Samo semafor"
+
+msgid "Open Jitsi in new tab"
+msgstr "Otvori Jitsi u novom tab-u"
+
+msgid "Open a meeting to play \"Connect 4\""
+msgstr "Otvorite sastanak za reprodukciju \"Connect 4\""
+
+msgid "Open a meeting to play chess"
+msgstr "Otvorite sastanak za igranje šaha"
+
+msgid "Open items"
+msgstr "Open items"
+
+msgid "Open link in ..."
+msgstr "Otvori veza u ..."
+
+msgid "Open list of speakers"
+msgstr "Otvori listu govornika"
+
+msgid "Open meeting"
+msgstr "Otvori sastanak"
+
+msgid "Open projection dialog"
+msgstr "Otvori dijalog projekcije"
+
+msgid "OpenSlides URL"
+msgstr "E-Sjednice URL"
+
+msgid "OpenSlides access data"
+msgstr "E-Sjednice Pristup podacima"
+
+msgid "OpenSlides help (FAQ)"
+msgstr "E-Sjednice pomoć (FAQ)"
+
+msgid ""
+"OpenSlides offers various speaking list customizations for use in "
+"parliament. These include the configuration of speaking time quotas for "
+"parliamentary groups (e.g. fractions, coalitions) as well as extended types "
+"of speeches such as short interventions and (parliamentary) interposed "
+"questions."
+msgstr ""
+"E-Sjednice nudi razne prilagođene prilagodbe govora za upotrebu u "
+"parlamentu.Oni uključuju konfiguraciju kvota za govor za parlamentarne grupe"
+" (npr. Frakcije, koalicije) kao i proširene vrste govora kao što su kratke "
+"intervencije i (parlamentarni) unosi"
+
+msgid "OpenSlides recommends"
+msgstr "E-Sjednice preporučuje"
+
+msgid "Option"
+msgstr "Opcija"
+
+msgid "Options"
+msgstr "Opcije"
+
+msgid "Organization"
+msgstr "Organizacija"
+
+msgid "Organization Management Level changed"
+msgstr "Razina upravljanja organizacijom promijenjena"
+
+msgid "Organization admin"
+msgstr "Administrator organizacije"
+
+msgid "Organization language"
+msgstr "Jezik organizacije"
+
+msgid "Organization specific information"
+msgstr "Informacije o organizaciji"
+
+msgid "Organizations"
+msgstr "Organizacije"
+
+msgid "Origin"
+msgstr "Porijeklo"
+
+msgid "Origin motion deleted"
+msgstr "Izbrisano porijeklo amandmana"
+
+msgid "Original"
+msgstr "Originalan"
+
+msgid "Original version"
+msgstr "Originalna verzija"
+
+msgid "Original version with changes"
+msgstr "Originalna verzija sa promjenama"
+
+msgid "Out of sync"
+msgstr "Nije sinhronizovano"
+
+msgid "Outside"
+msgstr "Vani"
+
+msgid "PDF"
+msgstr "PDF"
+
+msgid "PDF ballot paper logo"
+msgstr "PDF logo za glasački listić"
+
+msgid "PDF footer logo (left)"
+msgstr "PDF logotip footer (lijevo)"
+
+msgid "PDF footer logo (right)"
+msgstr "Logo PDF footer (desno)"
+
+msgid "PDF header logo (left)"
+msgstr "PDF Logotip (lijevo)"
+
+msgid "PDF header logo (right)"
+msgstr "PDF logotip zaglavlja (desno)"
+
+msgid "PDF options"
+msgstr "PDF opcije"
+
+msgid "Page"
+msgstr "Stranica"
+
+msgid "Page format"
+msgstr "Format stranice"
+
+msgid "Page layout"
+msgstr "Izgled stranice"
+
+msgid "Page margin bottom in mm"
+msgstr "Donja margina stranice u mm"
+
+msgid "Page margin left in mm"
+msgstr "Lijeva margina stranice  u mm"
+
+msgid "Page margin right in mm"
+msgstr "Stranica margina desno u mm"
+
+msgid "Page margin top in mm"
+msgstr "Gornja margina stranice  u mm"
+
+msgid "Page number alignment in PDF"
+msgstr "Poravnavanje broja stranice u PDF-u"
+
+msgid "Page numbers"
+msgstr "Brojevi stranica"
+
+msgid "Paragraph"
+msgstr "Paragraf"
+
+msgid "Paragraph-based, Diff-enabled"
+msgstr "Zasnovano na paragrafima, omogućene razlike"
+
+msgid "Parallel upload"
+msgstr "Paralelno otpremanje"
+
+msgid "Parent agenda item"
+msgstr "Roditeljska stavka dnevnog reda"
+
+msgid "Parent committee"
+msgstr "Matični odbor"
+
+msgid "Parent committee name"
+msgstr "Naziv matičnog odbora"
+
+msgid "Parent motion text changed"
+msgstr "Tekst roditeljskog amandmana je promijenjen"
+
+msgid "Parliament options"
+msgstr "Opcije parlamenta"
+
+msgid "Participant"
+msgstr "Učesnik"
+
+msgid "Participant added to group {} in meeting {}"
+msgstr "Učesnik je dodan u grupu {} u sastanku {}"
+
+msgid "Participant added to group {} in meeting {}."
+msgstr "Učesnik je dodan u grupu {} u sastanku {}."
+
+msgid "Participant added to meeting {}."
+msgstr "Učesnik je dodan u sastanak {}."
+
+msgid "Participant added to multiple groups in meeting {}"
+msgstr "Učesnik je dodan u više grupa u sastanku {}"
+
+msgid "Participant added to multiple groups in multiple meetings"
+msgstr "Učesnik je dodan u više grupa na više sastanaka"
+
+msgid "Participant created"
+msgstr "Stvoren učesnik"
+
+msgid "Participant created in meeting {}"
+msgstr "Učesnik kreiran u sastanku {}"
+
+msgid "Participant data updated in meeting {}"
+msgstr "Podaci sudionika ažurirani u sastanku {}"
+
+msgid "Participant data updated in multiple meetings"
+msgstr "Podaci sudionika ažurirani na više sastanaka"
+
+msgid "Participant deleted"
+msgstr "Učesnik je izbrisan"
+
+msgid "Participant deleted in meeting {}"
+msgstr "Učesnik je izbrisan u sastanku {}"
+
+msgid "Participant number"
+msgstr "Broj sudionika"
+
+msgid "Participant removed from group {} in meeting {}"
+msgstr "Učesnik je uklonjen iz grupe {} u sastanku {}"
+
+msgid "Participant removed from meeting {}"
+msgstr "Učesnik je uklonjen sa sastanka {}"
+
+msgid "Participant removed from multiple groups in meeting {}"
+msgstr "Učesnik uklonjen iz više grupa u sastanku {}"
+
+msgid "Participant removed from multiple groups in multiple meetings"
+msgstr "Učesnik je uklonjen iz više grupa na više sastanka"
+
+msgid "Participants"
+msgstr "Učesnici"
+
+msgid "Participants (PDF settings)"
+msgstr "Učesnici (PDF postavke)"
+
+msgid ""
+"Participants and administrators are copied completely and cannot be edited "
+"here."
+msgstr ""
+"Učesnici i administratori u potpunosti su kopirani i ne mogu se uređivati "
+"ovdje."
+
+msgid "Participants created"
+msgstr "Učesnici kreirani"
+
+msgid "Participants skipped"
+msgstr "Učesnici su preskočeni"
+
+msgid "Participants updated"
+msgstr "Učesnici ažurirani"
+
+msgid "Participants with errors"
+msgstr "Učesnici sa greškama"
+
+msgid "Participants with warnings: affected cells will be skipped"
+msgstr "Učesnici sa upozorenjima: pogođene ćelije će biti preskočene"
+
+msgid "Particles"
+msgstr "Čestica"
+
+msgid "Password"
+msgstr "Lozinka"
+
+msgid "Password changed"
+msgstr "Lozinka je promijenjena"
+
+msgid "Password changed successfully!"
+msgstr "Lozinka je uspješno promijenjena!"
+
+msgid "Passwords do not match"
+msgstr "Lozinke se ne podudaraju"
+
+msgid "Paste/write your topics in this textbox."
+msgstr "Zalijepite / napišite svoje teme u ovom tekstu."
+
+msgid "Pause speech"
+msgstr "Pauzirajte govor"
+
+msgid "Permissions"
+msgstr "Dozvole"
+
+msgid "Person-related fields"
+msgstr "Polja vezana za osobe"
+
+msgid "Personal data changed"
+msgstr "Osobni podaci su se promijenili"
+
+msgid "Personal information"
+msgstr "Osobni podaci"
+
+msgid "Personal note"
+msgstr "Lična bilješka"
+
+msgid "Personal notes"
+msgstr "Lične bilješke"
+
+msgid "Phase"
+msgstr "Faza"
+
+msgid "Playing against"
+msgstr "Igra se protiv"
+
+msgid "Please allow OpenSlides to access your microphone and/or camera"
+msgstr ""
+"Molimo vas da dopustite E-Sjednicama da pristupi vašem mikrofonu i / ili kameru"
+
+msgid "Please enter a name for the new directory:"
+msgstr "Molimo unesite ime za novi direktorij:"
+
+msgid "Please enter a name for the new workflow:"
+msgstr "Unesite ime za novi tok rada:"
+
+msgid "Please enter a valid email address!"
+msgstr "Molimo unesite valjanu adresu e-pošte!"
+
+msgid "Please enter your new password"
+msgstr "Unesite svoju novu lozinku"
+
+msgid "Please join the conference room now!"
+msgstr "Pridružite se konferencijskoj sali sada!"
+
+msgid "Please select a primary account."
+msgstr "Molimo odaberite primarni račun."
+
+msgid "Please select a vote weight greater than or equal to 0.000001"
+msgstr "Molimo odaberite težinu glasa veću ili jednaku 0,000001"
+
+msgid "Please select a vote weight greater than zero."
+msgstr "Molimo odaberite težinu glasova veću od nule."
+
+msgid "Please select the directory:"
+msgstr "Odaberite direktorij:"
+
+msgid ""
+"Please select your target meetings and enter the name of an existing group "
+"which should be assigned to the account in each meeting."
+msgstr ""
+"Molimo odaberite svoje ciljane sastanke i unesite naziv postojeće grupe koja"
+" bi trebala biti dodijeljena na račun na svakom sastanku."
+
+msgid "Please update your browser or contact your system administration."
+msgstr "Ažurirajte preglednik ili kontaktirajte svoju administraciju sistema."
+
+msgid "Please vote now!"
+msgstr "Molim vas da glasate!"
+
+msgid "Point of order"
+msgstr "Tačka reda"
+
+msgid "Polls"
+msgstr "Anketa"
+
+msgid ""
+"Possible placeholders for email subject and body: {title}, {first_name}, "
+"{last_name}, {groups}, {structure_levels}, {event_name}, {url}, {username} "
+"and {password}"
+msgstr ""
+"Varijable rezervirane za e-poštu temu i tijelo: {title}, {first_name}, {last_name},"
+"{last_name}, {groups}, {structure_levels}, {event_name}, {url}, {username} "
+"and {password}"
+
+msgid "Possible points of order"
+msgstr "Moguće tačke narudžbe"
+
+msgid "Preamble text for PDF document (all elections)"
+msgstr "Tekst preambula za PDF dokument (svi izbori)"
+
+msgid "Preamble text for PDF documents of motions"
+msgstr "Tekst preambula za PDF dokumente prijedloga-zahtjeva"
+
+msgid "Predefined seconds of new countdowns"
+msgstr "Unaprijed definirane sekunde novog odbrojavanja"
+
+msgid "Prefix"
+msgstr "Prefiks"
+
+msgid "Prefix for the motion identifier of amendments"
+msgstr "Prefiks za identifikator prijedloga-zahtjeva iz amandmana"
+
+msgid "Preload original motions"
+msgstr "Prethodno učitavanje originalnih  amandmana"
+
+msgid "Presence"
+msgstr "Prisustvo"
+
+msgid "Present"
+msgstr "Prisutan"
+
+msgid "Present entitled users"
+msgstr "Predstavite ovlaštene korisnike"
+
+msgid "Preview"
+msgstr "Pregled"
+
+msgid "Previous"
+msgstr "Prethodan"
+
+msgid "Previous page"
+msgstr "Prethodna stranica"
+
+msgid "Previous slides"
+msgstr "Prethodni slajdovi"
+
+msgid "Primary color"
+msgstr "Primarna boja"
+
+msgid "Principals"
+msgstr "Direktori"
+
+msgid "Privacy Policy"
+msgstr "Politika privatnosti"
+
+msgid "Privacy policy"
+msgstr "Politika privatnosti"
+
+msgid "Private key of Service Provider (SP)"
+msgstr "Privatni ključ pružatelja usluga (SP)"
+
+msgid "Process handling"
+msgstr "Rukovanje procesom"
+
+msgid "Project"
+msgstr "Projekcija"
+
+msgid "Project active structure level"
+msgstr "Projektuj aktivne strukturne nivoe"
+
+msgid "Project all structure levels"
+msgstr "Projektuj sve strukturne nivoe"
+
+msgid "Project selection?"
+msgstr "Odabir projektora?"
+
+msgid "Projection"
+msgstr "Projekcija"
+
+msgid "Projection defaults"
+msgstr "Projekcijske postavke"
+
+msgid "Projections"
+msgstr "Projekcije"
+
+msgid "Projector"
+msgstr "Projektor"
+
+msgid "Projector h1"
+msgstr "Projektor H1"
+
+msgid "Projector h2"
+msgstr "Projektor H2"
+
+msgid "Projector header image"
+msgstr "Slika zaglavlja projektora"
+
+msgid "Projector logo"
+msgstr "Logo projektora"
+
+msgid "Projectors"
+msgstr "Projektori"
+
+msgid "Pronoun"
+msgstr "zamjenska funkcija"
+
+msgid "Proxy holders"
+msgstr "Opunomoćenici"
+
+msgid "Public"
+msgstr "Javni"
+
+msgid "Public access"
+msgstr "Javni pristup"
+
+msgid "Public item"
+msgstr "Javni predmet"
+
+msgid "Public template"
+msgstr "Javni predložak"
+
+msgid "Public template required for creating new meeting"
+msgstr "Javni predložak potreban za kreiranje novog sastanka"
+
+msgid "Publish"
+msgstr "Objaviti"
+
+msgid "Publish immediately"
+msgstr "Odmah objaviti"
+
+msgid "Put all candidates on the list of speakers"
+msgstr "Stavite sve kandidate na listu govornika"
+
+msgid "Queue"
+msgstr "Red"
+
+msgid "Rank"
+msgstr "Rang"
+
+msgid "Re-add last speaker"
+msgstr "Ponovo dodajte posljednjeg govornika"
+
+msgid "Re-count logged-in users"
+msgstr "Ponovno prebrojavanje prijavljenih korisnika"
+
+msgid "Reason"
+msgstr "Razlog"
+
+msgid "Reason required for creating new motion"
+msgstr "Razlog potreban za stvaranje novog zahtjeva"
+
+msgid "Receipt of contributions"
+msgstr "Prijem doprinosa"
+
+msgid "Receive motions"
+msgstr "Primanje prijedloga-zahtjeva"
+
+msgid "Receive motions from"
+msgstr "Prijem prijedloga od"
+
+msgid "Received votes"
+msgstr "Primljeni glasovi"
+
+msgid "Recommendation"
+msgstr "Preporuka"
+
+msgid "Recommendation changed"
+msgstr "Preporuka se promijenila"
+
+msgid "Recommendation label"
+msgstr "Oznaka preporuke"
+
+msgid ""
+"Recommendation of motions in such a state can only be seen by motion "
+"managers."
+msgstr ""
+"Preporuka prijedloga-zahtjeva u takvom stanju mogu vidjeti samo menadžeri prijedloga-zahtjeva."
+
+msgid "Recommendation reset"
+msgstr "Reset preporuke"
+
+msgid "Recommendation set to {}"
+msgstr "Preporuka postavljena na {}"
+
+msgid "Redo"
+msgstr "Ponovi"
+
+msgid "Reenter to conference room"
+msgstr "Ponovo uđite u konferencijsku salu"
+
+msgid "Referring motions"
+msgstr "Prijedlozi za upućivanje"
+
+msgid "Refresh"
+msgstr "Osvježiti"
+
+msgid "Reject"
+msgstr "Odbiti"
+
+msgid "Rejected"
+msgstr "Odbijen"
+
+msgid "Relevant information could not be accessed"
+msgstr "Ne mogže se pristupiti relevantnim informacijama"
+
+msgid "Reload page"
+msgstr "Ponovo učitati stranicu"
+
+msgid "Remove"
+msgstr "Ukloniti"
+
+msgid ""
+"Remove URL to deactivate livestream. Check extra group permission to see "
+"livestream."
+msgstr ""
+"Uklonite URL za deaktiviranje livestream-a.Provjerite dodatnu grupnu "
+"dozvolu da biste vidjeli Livestream."
+
+msgid "Remove all next speakers"
+msgstr "Uklonite sve sljedeće govornike"
+
+msgid "Remove all previous speakers"
+msgstr "Uklonite sve prethodne govornike"
+
+msgid "Remove all speakers"
+msgstr "Uklonite sve govornike"
+
+msgid "Remove candidate"
+msgstr "Uklonite kandidata"
+
+msgid "Remove file"
+msgstr "Uklonite datoteku"
+
+msgid "Remove forward"
+msgstr "Ukloniti naprijed"
+
+msgid "Remove from agenda"
+msgstr "Uklonite iz dnevnog reda"
+
+msgid "Remove from motion block"
+msgstr "Uklonite iz bloka amandmana"
+
+msgid "Remove link"
+msgstr "Uklonite vezu"
+
+msgid "Remove me"
+msgstr "Ukloni me"
+
+msgid "Remove option"
+msgstr "Ukloni opciju"
+
+msgid "Remove point of order"
+msgstr "Uklonite tačku"
+
+msgid "Reopen"
+msgstr "Ponovo otvoriti"
+
+msgid "Replacement"
+msgstr "Zamjena"
+
+msgid "Reply address"
+msgstr "Adresa odgovora"
+
+msgid "Request"
+msgstr "Zahtjev"
+
+msgid "Request \"WhoAmI\" failed"
+msgstr "Zahtjev \"Whoami\" nije uspio"
+
+msgid "Requests to speak"
+msgstr "Zahtjev za govor"
+
+msgid "Required"
+msgstr "Potreban"
+
+msgid ""
+"Required comma or semicolon separated values with these column header names "
+"in the first row:"
+msgstr ""
+"Obavezno zarez ili zarezne vrijednosti odvojene s ovim nazivima zaglavlja "
+"stupca u prvom redu:"
+
+msgid "Required permissions to view this page:"
+msgstr "Potrebna dozvola za pregled ove stranice:"
+
+msgid "Requires permission to manage lists of speakers"
+msgstr "Zahtijeva dozvolu za upravljanje popisima govornika"
+
+msgid "Requires permission to manage motion metadata"
+msgstr "Zahtijeva dozvolu za upravljanje metapodacima o amandmanima"
+
+msgid "Requires permission to see origin motions"
+msgstr "Potrebna je dozvola za pregled porijekla amandmana"
+
+msgid "Reset"
+msgstr "Resetiranje"
+
+msgid "Reset cache"
+msgstr "Resetiranje predmemorije"
+
+msgid "Reset password"
+msgstr "Poništi lozinku"
+
+msgid "Reset passwords to the default ones"
+msgstr "Poništite lozinke na zadane vrijednosti"
+
+msgid "Reset recommendation"
+msgstr "Resetiraj preporuku"
+
+msgid "Reset state"
+msgstr "Resetirati stanje"
+
+msgid "Reset timer"
+msgstr "Resetiranje tajmera"
+
+msgid "Reset to default settings"
+msgstr "Poništite na zadane postavke"
+
+msgid "Resolution and size"
+msgstr "Rezolucija i veličina"
+
+msgid "Restart livestream"
+msgstr "Ponovo pokrenite Livestream"
+
+msgid ""
+"Restrict delegation principals from adding themselves to the list of "
+"speakers"
+msgstr "Ograničiti direktore delegacije da se dodaju na popis govornika"
+
+msgid "Restrict delegation principals from creating motions/amendments"
+msgstr ""
+"Ograničiti direktore delegacije iz stvaranja prijedloga-zahtjeva/amandmana"
+
+msgid "Restrict delegation principals from supporting motions"
+msgstr "Ograničiti direktore delegacije iz podrške amandmanima"
+
+msgid "Restrict delegation principals from voting"
+msgstr "Ograničiti direktore delegacije u glasanju"
+
+msgid "Restrictions"
+msgstr "Ograničenja"
+
+msgid "Result"
+msgstr "Rezultat"
+
+msgid "Results"
+msgstr "Rezultati"
+
+msgid "Resume speeches"
+msgstr "Nastavak govora"
+
+msgid "Retrieving vote status... Please wait!"
+msgstr "Dohvaćanje statusa glasa ... Molimo pričekajte!"
+
+msgid "Right"
+msgstr "Pravo"
+
+msgid "Roman"
+msgstr "Roman"
+
+msgid "Rows with warnings"
+msgstr "Redovi sa upozorenjima"
+
+msgid "SSO"
+msgstr "Sso"
+
+msgid "SSO Identification"
+msgstr "Identifikacija SSO-a"
+
+msgid "SSO identification"
+msgstr "Identifikacija SSO-a"
+
+msgid "Same email"
+msgstr "Isti email"
+
+msgid "Same given and surname"
+msgstr "Isto dano i prezime"
+
+msgid "Save"
+msgstr "Sačuvati"
+
+msgid "Save all changes"
+msgstr "Spremite sve promjene"
+
+msgid "Save editorial final version"
+msgstr "Spremite uredničku završnu verziju"
+
+msgid "Scan this QR code to open URL."
+msgstr "Skenirajte ovaj QR kôd za otvaranje URL-a."
+
+msgid "Scroll down"
+msgstr "Pomaknuti se prema dolje"
+
+msgid "Scroll down (big step)"
+msgstr "Pomičite se prema dolje (veliki korak)"
+
+msgid "Scroll up"
+msgstr "Pomaknuti se prema gore"
+
+msgid "Scroll up (big step)"
+msgstr "Pomičite se prema gore (veliki korak)"
+
+msgid "Search"
+msgstr "Pretražiti"
+
+msgid "Search player"
+msgstr "Traži učesnika"
+
+msgid "Searching for candidates"
+msgstr "Traženje kandidata"
+
+msgid "Searching for players ..."
+msgstr "Traženje učesnika ..."
+
+msgid "Secret voting can not be guaranteed"
+msgstr "Tajno glasanje ne može biti zagarantovano"
+
+msgid "Select"
+msgstr "Odabrati"
+
+msgid "Select all"
+msgstr "Odaberite sve"
+
+msgid "Select file"
+msgstr "Odaberite datoteku"
+
+msgid "Select meetings ..."
+msgstr "Odaberite sastanke ..."
+
+msgid "Select paragraphs"
+msgstr "Odaberite odlomke"
+
+msgid "Select participant"
+msgstr "Odaberite učesnika"
+
+msgid "Select speaker"
+msgstr "Odaberite govornika"
+
+msgid "Send"
+msgstr "Pošalji"
+
+msgid "Send invitation email"
+msgstr "Pošaljite pozivni email"
+
+msgid "Sender name"
+msgstr "Naziv pošiljatelja"
+
+msgid "Sending an invitation email"
+msgstr "Slanje pozivnog email-a"
+
+msgid "Separator used for all CSV exports and examples"
+msgstr "Separator koji se koristi za sve CSV izvoze i primjere"
+
+msgid "Sequential number"
+msgstr "Sekvencijalni broj"
+
+msgid "Serially numbered"
+msgstr "Serijski numerisan"
+
+msgid "Server settings required to activate Jitsi Meet integration."
+msgstr ""
+"Postavke servera potrebne za aktiviranje Jitsi integracije."
+
+msgid "Set active"
+msgstr "Postavi aktivnim"
+
+msgid "Set as favorite"
+msgstr "Postavi kao omiljeni"
+
+msgid "Set as not favorite"
+msgstr "Postavi kao neomiljeni"
+
+msgid "Set as parent"
+msgstr "Postavi kao roditelja"
+
+msgid "Set as reference projector"
+msgstr "Postavite kao referentni projektor"
+
+msgid "Set as template"
+msgstr "Postavite kao predložak"
+
+msgid "Set category"
+msgstr "Podesite kategoriju"
+
+msgid "Set external"
+msgstr "Podesite vanjski"
+
+msgid "Set external status for selected accounts"
+msgstr "Podesite vanjski status odabranih računa"
+
+msgid "Set favorite"
+msgstr "Omiljeni"
+
+msgid "Set forward"
+msgstr "Postavljen naprijed"
+
+msgid "Set hidden"
+msgstr "Set skriven"
+
+msgid "Set identifier"
+msgstr "Podesite identifikator"
+
+msgid "Set inactive"
+msgstr "Set inactive"
+
+msgid "Set internal"
+msgstr "Postavi interno"
+
+msgid "Set it manually"
+msgstr "Podesite ga ručno"
+
+msgid "Set live voting enabled by default"
+msgstr "Podesite glasanje uživo omogućeno kao zadano"
+
+msgid "Set lock out ..."
+msgstr "Postavite zaključavanje ..."
+
+msgid "Set motion block"
+msgstr "Podesite blok amandmana"
+
+msgid "Set natural person ..."
+msgstr "Postavite fizičku osobu ..."
+
+msgid "Set not present in meeting {}"
+msgstr "Podesite da nije prisutan u sastanku {}"
+
+msgid "Set or remove motion forwarding from the selected committees to:"
+msgstr "Podesite ili uklonite prosljeđivanje amandmana iz odabranih odbora na:"
+
+msgid "Set presence ..."
+msgstr "Postavite prisustvo ..."
+
+msgid "Set present in meeting {}"
+msgstr "Postavite prisustvo na sastanku {}"
+
+msgid "Set public"
+msgstr "Postavite javno"
+
+msgid "Set recommendation"
+msgstr "Podesite preporuku"
+
+msgid "Set status"
+msgstr "Postavite status"
+
+msgid "Set status for selected accounts"
+msgstr "Postavite status odabranih računa"
+
+msgid "Set status for selected participants:"
+msgstr "Postavite status odabranih sudionika:"
+
+msgid "Set submission timestamp"
+msgstr "Postavite vremensku oznaku"
+
+msgid "Set submitters"
+msgstr "Postavite podnositelje"
+
+msgid "Set tags"
+msgstr "Postavite oznake"
+
+msgid "Set workflow"
+msgstr "Postavite tijek rada"
+
+msgid "Set/remove home committee"
+msgstr "Podesite / uklonite matični odbor"
+
+msgid "Set/remove meeting"
+msgstr "Postavite / uklonite sastanak"
+
+msgid "Sets this projector as the reference for the current list of speakers"
+msgstr "Postavite ovaj projektor kao referencu za trenutnu listu govornika"
+
+msgid "Settings"
+msgstr "Postavke"
+
+msgid "Short form for amendments"
+msgstr "Kratki obrazac za amandmane"
+
+msgid "Show all changes"
+msgstr "Prikaži sve promjene"
+
+msgid "Show amendment"
+msgstr "Prikaži amandmane"
+
+msgid "Show amendment in parent motion"
+msgstr "Pokažite amandman u nadređenom amandmanu"
+
+msgid "Show amendments together with motions"
+msgstr "Pokazuju izmjene i dopune zajedno sa amandmanima"
+
+msgid "Show applause amount"
+msgstr "Prikaži veličinu aplauza"
+
+msgid "Show checkbox to record decision"
+msgstr "Prikaži potvrdni okvir za snimanje odluke"
+
+msgid "Show clock"
+msgstr "Prikaži sat"
+
+msgid "Show committee"
+msgstr "Prikaži odbor"
+
+msgid "Show conference room"
+msgstr "Prikaži konferencijsku salu"
+
+msgid "Show entire motion text"
+msgstr "Prikaži cijeli tekst amandmana"
+
+msgid "Show full text"
+msgstr "Prikaži cijeli tekst"
+
+msgid "Show header and footer"
+msgstr "Prikaži zaglavlje i podnožje"
+
+msgid "Show hint »first speech« in the list of speakers management view"
+msgstr "Prikaži savjet »Prvi govor« Na listi menadžmenta govornika"
+
+msgid "Show internal items when projecting agenda"
+msgstr "Pokažite interne stavke prilikom projektovanja dnevnog reda"
+
+msgid "Show live conference window"
+msgstr "Prikaži prozor uživo konferencije"
+
+msgid "Show logo"
+msgstr "Prikaži logo"
+
+msgid "Show main menu"
+msgstr "Prikaži glavni meni"
+
+msgid "Show meta information box beside the title on projector"
+msgstr "Prikaži meta okvir Informacije pored naslova na projektoru"
+
+msgid "Show motion submitters in the agenda"
+msgstr "Prikaži podnosioce prijedloga u dnevnom redu"
+
+msgid "Show motion text on projector"
+msgstr "Prikaži tekst prijedloga-zahtjeva na projektoru"
+
+msgid "Show orange countdown in the last x seconds of speaking time"
+msgstr ""
+"Pokažite odbrojavanje narandžaste u posljednjih x sekundi vremena "
+"govora"
+
+msgid "Show password"
+msgstr "Prikaži lozinku"
+
+msgid "Show reason on projector"
+msgstr "Pokažite razlog na projektoru"
+
+msgid "Show recommendation extension field"
+msgstr "Prikaži polje za proširenje za preporuke"
+
+msgid "Show recommendation on projector"
+msgstr "Prikaži preporuku na projektoru"
+
+msgid "Show referring motions"
+msgstr "Prikaži upućivanje na amandmane"
+
+msgid "Show report"
+msgstr "Prikaži izvještaj"
+
+msgid "Show state extension field"
+msgstr "Prikaži prošireno polje za status"
+
+msgid "Show submitters and recommendation/state in table of contents"
+msgstr "Prikaži podnosioce i stanje preporuke u sadržaju"
+
+msgid "Show the amount of speakers in subtitle of list of speakers slide"
+msgstr "Pokažite količinu govornika u podnaslovu popisa klizača govornika"
+
+msgid "Show the sequential number for a motion"
+msgstr "Pokažite sekvencijalni broj za amandman"
+
+msgid "Show this text on the login page"
+msgstr "Pokažite ovaj tekst na stranici za prijavu"
+
+msgid "Show title"
+msgstr "Prikaži naslov"
+
+msgid "Show topic navigation in detail view"
+msgstr "Pokažite navigaciju teme detaljno"
+
+msgid ""
+"Shows a button with help icon to connect to an extra Jitsi conference room "
+"for technical audio/video tests."
+msgstr ""
+"Prikazuje dugme sa ikonom za pomoć da se poveže sa dodatnom konferencijskom "
+"salu Jitsi za tehničke audio / video testove."
+
+msgid ""
+"Shows if livestream is not started. Recommended image format: 500x200px, PNG"
+" or JPG"
+msgstr ""
+"Pokazuje ako livestream nije pokrenut.Preporučeni format slike: 500x200px, "
+"PNG ili JPG"
+
+msgid ""
+"Shows the given image as applause particle. Recommended image format: "
+"24x24px, PNG, JPG or SVG"
+msgstr ""
+"Prikazuje datu sliku kao česticu aplauza. Preporučeni format slike: "
+"24x24px, PNG, JPG or SVG"
+
+msgid "Single Sign-On settings"
+msgstr "Postavke pojedinačne prijave"
+
+msgid "Single votes"
+msgstr "Pojedinačni glasovi"
+
+msgid "Some csv values could not be read correctly."
+msgstr "Neke CSV vrijednosti nisu se mogle ispravno čitati."
+
+msgid ""
+"Some mails could not be sent. There may be a problem communicating with the "
+"mail server, please contact your admin."
+msgstr ""
+"Neke mailovi se nisu mogle poslati.Može doći do problema sa komunikacijom s "
+"poslužiteljem pošte, obratite se svom administratoru."
+
+msgid "Sort"
+msgstr "Sortirati"
+
+msgid "Sort agenda"
+msgstr "Poredaj dnevni red"
+
+msgid "Sort by identifier"
+msgstr "Poredaj po identifikatoru"
+
+msgid "Sort categories"
+msgstr "Poredaj kategorije"
+
+msgid "Sort comments"
+msgstr "Poredaj komentare"
+
+msgid "Sort election results by amount of votes"
+msgstr "Poredaj rezultate izbora prema količini glasova"
+
+msgid "Sort motions"
+msgstr "Poredaj amandmane"
+
+msgid "Sort motions by"
+msgstr "Poredaj amandmane po"
+
+msgid "Sort participant names on single votes projection by"
+msgstr ""
+"Sortiraj imena učesnika na projekciji pojedinačnih glasova po"
+
+msgid "Sort workflow"
+msgstr "Poredaj tijek rada"
+
+msgid "Source"
+msgstr "Izvor"
+
+msgid "Source code"
+msgstr "Izvorni kod"
+
+msgid "Speaker"
+msgstr "Govornik"
+
+msgid "Speakers"
+msgstr "Govornici"
+
+msgid "Speaking time – current contribution"
+msgstr "Vrijeme govora - trenutni doprinos"
+
+msgid "Speaking times"
+msgstr "Vremena govora"
+
+msgid "Speaking times – overview structure levels"
+msgstr "Vremena govora - Pregled nivoa strukture"
+
+msgid "Speech start time"
+msgstr "Vrijeme početka govora"
+
+msgid "Speech type"
+msgstr "Tip govora"
+
+msgid "Spokesperson"
+msgstr "Glasnogovornik"
+
+msgid "Spokespersons"
+msgstr "Glasnogovornici"
+
+msgid "Stalemate! It's a draw!"
+msgstr "Pat! Neriješeno!"
+
+msgid "Start and end time must either both be set or both be empty"
+msgstr ""
+"Vrijeme početka i vrijeme završetka moraju biti oba postavljena ili oba moraju biti prazna"
+
+msgid "Start date"
+msgstr "Datum početka"
+
+msgid "Start line number"
+msgstr "Broj za početnu liniju"
+
+msgid "Start time"
+msgstr "Vrijeme početka"
+
+msgid "Start voting"
+msgstr "Počnite glasati"
+
+msgid "State"
+msgstr "Stanje"
+
+msgid "State changed"
+msgstr "stanje se promijenilo"
+
+msgid "State set to {}"
+msgstr "Stanje postavljeno na {}"
+
+msgid "Statistics"
+msgstr "Statistika"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Stop"
+msgstr "Zaustaiviti"
+
+msgid "Stop & publish"
+msgstr "Zaustavite i objavite"
+
+msgid "Stop counting"
+msgstr "Prestani brojati"
+
+msgid "Stop voting"
+msgstr "Prestanite glasati"
+
+msgid "Stop waiting"
+msgstr "Prestani čekati"
+
+msgid "Stop, publish & anonymize"
+msgstr "Zaustavite, objavite i anonimizirajte"
+
+msgid "Strikethrough"
+msgstr "Precrtano"
+
+msgid "Structure level"
+msgstr "Nivo strukture"
+
+msgid "Structure levels"
+msgstr "Nivoi strukture"
+
+msgid "Structure levels created"
+msgstr "Stvorena razina strukture"
+
+msgid "Subcategory"
+msgstr "Podkategorija"
+
+msgid "Subcommittees"
+msgstr "Pododbori"
+
+msgid "Submission date"
+msgstr "Datum podnošenja"
+
+msgid "Submit selection now?"
+msgstr "Pošaljite izbor sada?"
+
+msgid "Submit vote now"
+msgstr "Pošaljite glasanje sada"
+
+msgid "Submitter"
+msgstr "Podnosilac"
+
+msgid "Submitter may set state to"
+msgstr "Podnosilac može postaviti stanje na"
+
+msgid "Submitters"
+msgstr "Podnosioci"
+
+msgid "Submitters changed"
+msgstr "Podnosioci su promijenjeni"
+
+msgid "Subscript"
+msgstr "Pretplatni"
+
+msgid "Subtract"
+msgstr "Oduzeti"
+
+msgid "Suitable accounts found"
+msgstr "Pronađeni su odgovarajući računi"
+
+msgid "Sum of votes"
+msgstr "Zbroj glasova"
+
+msgid "Sum of votes without general options"
+msgstr "Zbroj glasova bez općih opcija"
+
+msgid "Summary"
+msgstr "Sažetak"
+
+msgid "Summary of changes"
+msgstr "Sažetak promjena"
+
+msgid "Summary of changes:"
+msgstr "Sažetak promjena:"
+
+msgid "Superadmin"
+msgstr "Superadmin"
+
+msgid "Superadmin actions"
+msgstr "Superadmin akcije"
+
+msgid "Superadmin settings"
+msgstr "Superadmin postavke"
+
+msgid "Superscript"
+msgstr "Superscript"
+
+msgid "Support"
+msgstr "Podrška"
+
+msgid "Supporters"
+msgstr "Pristalice"
+
+msgid "Supporters changed"
+msgstr "Pristalice su se promijenile"
+
+msgid "Surname"
+msgstr "Prezime"
+
+msgid "Swap mandates"
+msgstr "Zamjena mandata"
+
+msgid "Switch"
+msgstr "Prebaciti"
+
+msgid "System"
+msgstr "Sistem"
+
+msgid "Table of contents"
+msgstr "Sadržaj"
+
+msgid "Tag"
+msgstr "Označiti"
+
+msgid "Tags"
+msgstr "Oznake"
+
+msgid "Target meeting"
+msgstr "Ciljni sastanak"
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid "Text color"
+msgstr "Boja teksta"
+
+msgid "Text for this option couldn't load."
+msgstr "Tekst za ovu opciju nije se mogao učitati."
+
+msgid "Text import"
+msgstr "Tekst uvoz"
+
+msgid "Text separator"
+msgstr "Separator teksta"
+
+msgid "Text to display"
+msgstr "Tekst za prikaz"
+
+msgid "Text version"
+msgstr "Tekstualna verzija"
+
+msgid "The account is deactivated."
+msgstr "Račun je deaktiviran."
+
+msgid "The affected columns will not be imported."
+msgstr "Pogođeni stupci neće se uvoziti."
+
+msgid "The assembly may decide:"
+msgstr "Skupština može odlučiti:"
+
+msgid "The event manager has not set up a legal notice yet."
+msgstr "Menadžer događaja još nije postavio pravnu obavijest."
+
+msgid "The event manager has not set up a privacy policy yet."
+msgstr "Menadžer događaja još nije postavio politiku privatnosti."
+
+msgid "The fields are defined as follows"
+msgstr "Polja su definirana na sljedeći način"
+
+msgid "The file has too few columns to be parsed properly."
+msgstr "Datoteka ima premalo kolona za pravilnu analizu."
+
+msgid ""
+"The import can not proceed. There is likely a problem with the import data, "
+"please check the preview for details."
+msgstr ""
+"Uvoz se ne može nastaviti.Postoji vjerovatno problem sa uvoznim podacima, "
+"provjerite pregled za detalje."
+
+msgid "The import is in progress, please wait ..."
+msgstr "Uvoz je u toku, pričekajte ..."
+
+msgid ""
+"The import returned warnings. This does not mean that it failed, but some "
+"data may have been imported differently. Usually the warnings will be the "
+"same as during the preview, but as there is a possibility that new ones have"
+" arisen, the relevant rows will be displayed below."
+msgstr ""
+"Uvoz je vratio upozorenja.To ne znači da nije uspio, ali neki su podaci "
+"možda uvozili različito.Obično će upozorenja biti ista kao i za vrijeme "
+"pregleda, ali kao što postoji mogućnost da se novi pojave, relevantni redovi"
+" bit će prikazani u nastavku."
+
+msgid "The import was successful."
+msgstr "Uvoz je bio uspješan."
+
+msgid "The input data for voting is invalid."
+msgstr "Ulazni podaci za glasanje nisu valjani."
+
+msgid "The link is broken. Please contact your system administrator."
+msgstr "Veza je prekinuta.Molimo kontaktirajte svog administratora sistema."
+
+msgid "The list of speakers is closed."
+msgstr "Popis govornika je zatvoren."
+
+msgid ""
+"The maximum number of characters per line. Relevant when line numbering is "
+"enabled. Min: 40. Note: Check PDF export and font."
+msgstr ""
+"Maksimalni broj znakova po retku.Relevantno kada je omogućeno numeriranje "
+"linije.Min: 40. Napomena: Provjerite izvoz i font PDF-a."
+
+msgid "The number has to be greater than 0."
+msgstr "Broj mora biti veći od 0."
+
+msgid "The parent motion is not available."
+msgstr "Zahtjev nadređenog amandmana nije dostupan."
+
+msgid "The process is still running. Please wait!"
+msgstr "Proces i dalje radi.Molimo pričekajte!"
+
+msgid "The process may have stopped running."
+msgstr "Proces je možda prestao raditi."
+
+msgid "The process will be started. Please wait!"
+msgstr "Proces će biti pokrenut.Molimo pričekajte!"
+
+msgid "The request could not be sent. Check your connection."
+msgstr "Zahtjev se ne može poslati.Provjerite vezu."
+
+msgid "The server could not be reached."
+msgstr "Serveru se nije moglo pristupiti."
+
+msgid "The server didn't respond."
+msgstr "Poslužitelj nije odgovorio."
+
+msgid ""
+"The server may still be processing them, but you will probably not get a "
+"result."
+msgstr ""
+"Poslužitelj ih možda još uvijek obrađuje, ali vjerovatno nećete dobiti "
+"rezultat."
+
+msgid "The title is required"
+msgstr "Naslov je potreban"
+
+msgid ""
+"The user %user% has no email, so the invitation email could not be sent."
+msgstr ""
+"Korisnik %user% nema e-poštu, tako da se pozivni email ne može poslati."
+
+msgid ""
+"The users %user% have no email, so the invitation emails could not be sent."
+msgstr ""
+"Korisnici %user% nemaju e-poštu, tako da se e-mail pozivnica ne može "
+"poslati."
+
+msgid "There are not enough options."
+msgstr "Nema dovoljno opcija."
+
+msgid "There is an error in your vote."
+msgstr "Postoji greška u vašem glasanju."
+
+msgid "There is an error with this amendment. Please edit it manually."
+msgstr "Postoji greška s ovim amandmanom.Molimo vas da ga uredite ručno."
+
+msgid "There is an unknown voting problem."
+msgstr "Postoji nepoznati problem sa glasanjem."
+
+msgid "There is an unspecified error in this line, which prevents the import."
+msgstr "U ovoj liniji postoji neodređena greška koja sprječava uvoz."
+
+msgid ""
+"There seems to be a problem connecting to our services. Check your "
+"connection or try again later."
+msgstr ""
+"Čini se da postoji problem koji se povezuje s našim uslugama.Provjerite vezu"
+" ili pokušajte ponovo kasnije."
+
+msgid "There should be at least 2 options."
+msgstr "Trebalo bi postojati najmanje 2 opcije."
+
+msgid "Thereof point of orders"
+msgstr "Od toga je točka naloga"
+
+msgid "These accounts will be deleted:"
+msgstr "Ovi računi bit će izbrisani:"
+
+msgid "These participants will be removed:"
+msgstr "Ovi učesnici će biti uklonjeni:"
+
+msgid "These settings are only applied locally on this browser."
+msgstr "Ove postavke se primjenjuju samo lokalno u ovom pregledniku."
+
+msgid "This account has relations to meetings or committees"
+msgstr "Ovaj račun ima relacije sa sastancima ili odborima"
+
+msgid ""
+"This account is not linked as candidate, submitter or speaker in any meeting"
+" and is not manager of any committee"
+msgstr ""
+"Ovaj račun nije povezan kao kandidat, podnosilac ili govornik na bilo kojem "
+"sastanku i nije menadžer nijednog odbora"
+
+msgid "This action will remove you from one or more groups."
+msgstr "Ova akcija će vas ukloniti iz jedne ili više grupa."
+
+msgid "This action will remove you from one or more meetings."
+msgstr "Ova akcija će vas ukloniti sa jednog ili više sastanaka."
+
+msgid "This amendment has change recommendations."
+msgstr "Ovaj amandman sadrži preporuke za izmjene."
+
+msgid "This ballot contains deleted users."
+msgstr "Ovaj glasački listić sadrži izbrisane korisnike."
+
+msgid "This change collides with another one."
+msgstr "Ova promjena se sudara s drugom."
+
+msgid "This committee already exists"
+msgstr "Ovaj odbor već postoji"
+
+msgid "This committee has no managers!"
+msgstr "Ovaj odbor nema menadžera!"
+
+msgid "This field is required."
+msgstr "Ovo polje je obavezno."
+
+msgid "This file will also be deleted from all meetings."
+msgstr "Ova će datoteka biti izbrisana i sa svih sastanaka."
+
+msgid "This is not a number."
+msgstr "Ovo nije broj."
+
+msgid ""
+"This may diminish your ability to do things in this meeting and you may not "
+"be able to revert it by youself. Are you sure you want to do this?"
+msgstr ""
+"Ovo može umanjiti vašu sposobnost da radite stvari na ovom sastanku i možda "
+"nećete moći da ga vratite sa sobom.Jeste li sigurni da to želite učiniti?"
+
+msgid "This meeting"
+msgstr "Ovaj sastanak"
+
+msgid "This meeting is archived"
+msgstr "Ovaj sastanak je arhiviran"
+
+msgid "This meeting is public"
+msgstr "Ovaj sastanak je javni"
+
+msgid "This paragraph does not exist in the main motion anymore:"
+msgstr "Ovaj odlomak više ne postoji u glavnom prijedlogu:"
+
+msgid "This participant will only be removed from this meeting"
+msgstr "Ovaj učesnik će biti uklonjen samo sa ovog sastanka"
+
+msgid "This prefix already exists"
+msgstr "Ovaj prefiks već postoji"
+
+msgid "This prefix already exists."
+msgstr "Ovaj prefiks već postoji."
+
+msgid "This prefix will be set if you run the automatic agenda numbering."
+msgstr ""
+"Ovaj prefiks bit će postavljen ako pokrenete automatsku numeriranje dnevnog "
+"reda."
+
+msgid ""
+"This projector is currently internal. Selecting such projectors as reference"
+" projectors will automatically set them to visible. Do you really want to do"
+" this?"
+msgstr ""
+"Ovaj projektor je trenutno interni. Odabir takvih projektora kao referentnih"
+" projektora, oni će odmah biti vidljivi. Da li zaista želite to"
+" uraditi?"
+
+msgid ""
+"This will add or remove the following groups for all selected participants:"
+msgstr "Ovo će dodati ili ukloniti sljedeće grupe za sve odabrane sudionike:"
+
+msgid ""
+"This will add or remove the following structure levels for all selected "
+"participants:"
+msgstr ""
+"Ovo će dodati ili ukloniti sljedeću razinu strukture za sve odabrane "
+"sudionike:"
+
+msgid ""
+"This will add or remove the following submitters for all selected motions:"
+msgstr ""
+"Ovo će dodati ili ukloniti sljedeće podnositelje za sve odabrane prijedloge-zahtjeve:"
+
+msgid ""
+"This will add or remove the following tags for all selected agenda items:"
+msgstr ""
+"Ovo će dodati ili ukloniti sljedeće oznake za sve odabrane stavke dnevnog reda:"
+
+msgid "This will add or remove the following tags for all selected motions:"
+msgstr "Ovo će dodati ili ukloniti sljedeće oznake za sve odabrane prijedloge-zahtjeve:"
+
+msgid "This will add or remove the selected accounts to following meetings:"
+msgstr "Ovo će dodati ili ukloniti odabrane račune na sljedeće sastanke:"
+
+msgid ""
+"This will add or remove the selected accounts to the selected home "
+"committee:"
+msgstr "Ovo će dodati ili ukloniti odabrane račune odabranom osnovnom odboru:"
+
+msgid "This will move all selected motions as childs to:"
+msgstr "Ovo će premjestiti sve odabrane prijedloge kao podređene na:"
+
+msgid ""
+"This will move all selected motions under or after the following motion in "
+"the call list:"
+msgstr ""
+"Ovo će premjestiti sve odabrane prijedloge-zahtjeve pod ili nakon sljedećeg prijedloga-zahtjeva na "
+"popisu poziva:"
+
+msgid "This will reset all made changes and sort the call list."
+msgstr "Ovo će resetovati sve napravljene promjene i sortirati listu poziva."
+
+msgid "This will set the favorite status for all selected motions:"
+msgstr "Ovo će postaviti omiljeni status za sve odabrane prijedloge-zahtjeve:"
+
+msgid "This will set the following category for all selected motions:"
+msgstr "Ovo će postaviti sljedeću kategoriju za sve odabrane prijedloge-zahtjeve:"
+
+msgid "This will set the following motion block for all selected motions:"
+msgstr "Ovo će postaviti sljedeći blok prijedloga-zahtjeva za sve odabrane prijedloge-zahtjeve:"
+
+msgid "This will set the following recommendation for all selected motions:"
+msgstr "Ovo će postaviti sljedeću preporuku za sve odabrane prijedloge:"
+
+msgid "This will set the following state for all selected motions:"
+msgstr "Ovo će postaviti sljedeći status za sve odabrane prijedloge-zahtjeve:"
+
+msgid "This will set the workflow for all selected motions:"
+msgstr "Ovo će postaviti tijek rada za sve odabrane prijedloge-zahtjeve:"
+
+msgid "Thoroughly check datastore (unsafe)"
+msgstr "Temeljito provjerite DataStore (nesigurno)"
+
+msgid "Threefold repetition! It's a draw!"
+msgstr "Trostruko ponavljanje! Neriješeno!"
+
+msgid "Tile view"
+msgstr "Prikaz kao pločice"
+
+msgid "Time"
+msgstr "Vrijeme"
+
+msgid "Time and traffic light"
+msgstr "Vrijeme i semafor"
+
+msgid "Timer"
+msgstr "Tajmer"
+
+msgid "Timers"
+msgstr "Tajmeri"
+
+msgid "Timestamp"
+msgstr "Vremenska oznaka"
+
+msgid "Title"
+msgstr "Naslov"
+
+msgid "Title for PDF document (all elections)"
+msgstr "Naslov za PDF dokument (svi izbori)"
+
+msgid "Title for PDF documents of motions"
+msgstr "Naslov za PDF dokumente o prijedlozima-zahtjevima"
+
+msgid "Title for access data and welcome PDF"
+msgstr "Naslov za pristupne podatke i PDF dobrodošlice"
+
+msgid "To start your search press Enter or the search icon"
+msgstr ""
+"Za pokretanje vaše pretrage Pritisnite Enter ili ikonu za pretraživanje"
+
+msgid "Toggle to list of speakers"
+msgstr "Prebacivanje na listu govornika"
+
+msgid "Toggle to parent item"
+msgstr "Prebaci na nadređenu stavku"
+
+msgid "Too many votes on one option."
+msgstr "Previše glasova na jednoj opciji."
+
+msgid "Topic"
+msgstr "Tema"
+
+msgid "Topics"
+msgstr "Teme"
+
+msgid "Topics created"
+msgstr "Kreirane teme"
+
+msgid "Topics skipped"
+msgstr "Teme su preskočene"
+
+msgid "Topics updated"
+msgstr "Teme su ažurirane"
+
+msgid "Topics with warnings (will be skipped)"
+msgstr "Teme sa upozorenjima (preskočit će se)"
+
+msgid "Total accounts"
+msgstr "Ukupno računa"
+
+msgid "Total committees"
+msgstr "Ukupno odbora"
+
+msgid "Total participants"
+msgstr "Ukupno učesnika"
+
+msgid "Total time"
+msgstr "Ukupno vrijeme"
+
+msgid "Total topics"
+msgstr "Ukupno tema"
+
+msgid "Total votes cast"
+msgstr "Ukupan broj glasova"
+
+msgid "Touch the book icon to enter text"
+msgstr "Dodirnite ikonu knjige da biste unijeli tekst"
+
+msgid "Translation"
+msgstr "Prevođenje"
+
+msgid "Troubleshooting"
+msgstr "Rješavanje problema"
+
+msgid "Try reconnect"
+msgstr "Pokušajte ponovo povezati"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Underline"
+msgstr "Podvlačiti"
+
+msgid "Undo"
+msgstr "Poništiti"
+
+msgid "Undone"
+msgstr "Poništen"
+
+msgid "Unique speakers"
+msgstr "Jedinstveni govornici"
+
+msgid "Unknown participant"
+msgstr "Nepoznati učesnik"
+
+msgid "Unknown user"
+msgstr "Nepoznati korisnik"
+
+msgid "Unpublish"
+msgstr "Poništi objavu"
+
+msgid "Unsaved changes will not be applied."
+msgstr "Nesačuvane promjene neće biti primijenjene."
+
+msgid "Unsupport"
+msgstr "Nepodržan"
+
+msgid "Upload"
+msgstr "Otpremi"
+
+msgid "Upload to"
+msgstr "Otpremi u"
+
+msgid ""
+"Use JSON key:value structure (key = OpenSlides attribute name, value = IdP "
+"attribute name)."
+msgstr ""
+"Koristite JSON key:value structure (key = OpenSlides attribute name, value = IdP "
+"attribute name)."
+
+msgid "Use color"
+msgstr "Koristite boju"
+
+msgid "Use the following custom number"
+msgstr "Koristite sljedeći prilagođeni broj"
+
+msgid "Used for WLAN QRCode projection."
+msgstr "Koristi se za projekciju WLAN QRCode."
+
+msgid "Used for invitation emails and QRCode in PDF of access data."
+msgstr "Koristi se za pozivnice e-pošte i QRCode u PDF-u pristupnih podataka."
+
+msgid "User"
+msgstr "Korisnik"
+
+msgid "User not found."
+msgstr "Korisnik nije pronađen."
+
+msgid "Username"
+msgstr "Korisničko ime"
+
+msgid "Username may not contain spaces"
+msgstr "Korisničko ime ne može sadržavati razmake"
+
+msgid "Username or password is incorrect."
+msgstr "Korisničko ime ili lozinka su netačni."
+
+msgid "Uses leading zeros to sort motions correctly by identifier."
+msgstr "Koristi vodeće nule za ispravno sortiranje amandmana po identifikatoru."
+
+msgid ""
+"Using OpenSlides over HTTP 1.1 or lower is not supported. Make sure you can "
+"use HTTP 2 to continue."
+msgstr ""
+"Korištenje E-Sjednica preko HTTP 1.1 ili niže nije podržano.Obavezno možete"
+" koristiti HTTP 2 za nastavak."
+
+msgid "Using OpenSlides over HTTP is not supported. Enable HTTPS to continue."
+msgstr ""
+"Korištenje E-Sjednice preko HTTP-a nije podržano.Omogućite HTTPS za nastavak."
+
+msgid "Valid votes"
+msgstr "Važeći glasovi"
+
+msgid "View"
+msgstr "Pogled"
+
+msgid "Virtual applause"
+msgstr "Virtualni aplauz"
+
+msgid "Visibility"
+msgstr "Vidljivost"
+
+msgid "Visibility on agenda"
+msgstr "Vidljivost na dnevnom redu"
+
+msgid "Vote"
+msgstr "Glasajte"
+
+msgid "Vote Weight"
+msgstr "Težina glasa"
+
+msgid "Vote delegation"
+msgstr "Delegiranje glasanja"
+
+msgid "Vote submitted"
+msgstr "Glas poslan"
+
+msgid "Vote weight"
+msgstr "Težina glasa"
+
+msgid "Voted"
+msgstr "Glasao"
+
+msgid "Votes"
+msgstr "Glasovi"
+
+msgid "Voting"
+msgstr "Glasanje"
+
+msgid "Voting anonymized"
+msgstr "Glasanje anonimno"
+
+msgid "Voting colors"
+msgstr "Boje glasanja"
+
+msgid "Voting created"
+msgstr "Glasanje je kreirano"
+
+msgid "Voting deleted"
+msgstr "Izbrisano glasanje"
+
+msgid "Voting duration"
+msgstr "Trajanje glasanja"
+
+msgid ""
+"Voting ends after short (some seconds/minutes) or long (some days/weeks) "
+"time period."
+msgstr ""
+"Glasanje se završava nakon kratkog (nekoliko sekundi / minuta) ili dugih "
+"(nekih dana / sedmica) vremenskog perioda."
+
+msgid "Voting in progress"
+msgstr "Glasanje u toku"
+
+msgid "Voting is currently in progress."
+msgstr "Glasanje je trenutno u toku."
+
+msgid "Voting method"
+msgstr "Metoda glasanja"
+
+msgid "Voting opened"
+msgstr "Glasanje je otvoreno"
+
+msgid "Voting published"
+msgstr "Glasanje objavljeno"
+
+msgid "Voting reset"
+msgstr "Resetiranje glasanja"
+
+msgid "Voting result"
+msgstr "Rezultat glasanja"
+
+msgid "Voting right delegated to (proxy)"
+msgstr "Glasaćko pravo delegirano na (proxy)"
+
+msgid "Voting right for"
+msgstr "Pravo glasanja za"
+
+msgid "Voting right received from (principals)"
+msgstr "Pravo glasanja primljeno od (ravnatelja)"
+
+msgid "Voting rights"
+msgstr "Prava glasanja"
+
+msgid "Voting started"
+msgstr "Počelo je glasanje"
+
+msgid "Voting stopped"
+msgstr "Glasanje je zaustavljeno"
+
+msgid "Voting stopped/published"
+msgstr "Glasanje je zaustavljeno / objavljeno"
+
+msgid "Voting successful."
+msgstr "Glasanje je uspješno."
+
+msgid "Voting type"
+msgstr "Tip glasanja"
+
+msgid "Votings"
+msgstr "Glasanje"
+
+msgid "WLAN encryption"
+msgstr "WLAN enkripcija"
+
+msgid "WLAN name (SSID)"
+msgstr "WLAN Ime (SSID)"
+
+msgid "WLAN password"
+msgstr "WLAN lozinka"
+
+msgid "Wait"
+msgstr "Čekati"
+
+msgid "Wait for response ..."
+msgstr "Čekaj odgovor ..."
+
+msgid "Waiting for response ..."
+msgstr "Čeka se odgovor ..."
+
+msgid "Warn color"
+msgstr "Boja upozorenja"
+
+msgid ""
+"Warning: Amendments exist for this motion. Are you sure you want to delete "
+"this motion regardless?"
+msgstr ""
+"Upozorenje: Izmjene i dopune postoje za ovaj zahtjev.Jeste li sigurni da "
+"želite izbrisati ovaj prijedlog bez obzira na to?"
+
+msgid ""
+"Warning: Amendments or change recommendations exist for this motion. Editing"
+" this text will likely impact them negatively. Particularily, amendments "
+"might become unusable if the paragraph they affect is deleted, or change "
+"recommendations might lose their reference line completely."
+msgstr ""
+"Upozorenje: Izmjene i dopune ili promjene preporuka postoje za ovaj "
+"zahtjev.Uređivanje ovog teksta vjerovatno će ih negativno uticati na "
+"njih.Posebno izmjene mogu postati neupotrebljive ako se odlomak koji "
+"utječe brišu ili promjene preporuke mogu u potpunosti izgubiti referentnu "
+"liniju."
+
+msgid ""
+"Warning: At least one of the selected motions has amendments, these will be "
+"deleted as well. Do you want to delete anyway?"
+msgstr ""
+"UPOZORENJE: Barem jedan od odabranih prijedloga ima amandmane, i oni će biti "
+"izbrisani.Želite li ipak izbrisati?"
+
+msgid ""
+"Warning: Data loss is possible because accounts are in the same meeting."
+msgstr ""
+"Upozorenje: gubitak podataka je moguć jer su računi na istom sastanku."
+
+msgid "Warning: This projector will be set to visible"
+msgstr "Upozorenje: Ovaj projektor će biti postavljen na vidljivo"
+
+msgid "Was forwarded to this meeting"
+msgstr "Proslijeđen je ovom sastanku"
+
+msgid "Web interface header logo"
+msgstr "Logo zaglavlja web interfejsa"
+
+msgid "Welcome to OpenSlides"
+msgstr "Dobrodošli u E-Sjednice"
+
+msgid "What is new?"
+msgstr "Šta je novo?"
+
+msgid "Which version?"
+msgstr "Koju verziju?"
+
+msgid "Which visualization?"
+msgstr "Koja vizualizacija?"
+
+msgid "Wifi"
+msgstr "WiFi"
+
+msgid "Wifi access data"
+msgstr "WiFi pristup podacima"
+
+msgid "Wifi name"
+msgstr "Wifi name"
+
+msgid ""
+"Will be displayed as label before selected recommendation. Use an empty "
+"value to disable the recommendation system."
+msgstr ""
+"Bit će prikazano kao naljepnica prije odabrane preporuke.Koristite praznu "
+"vrijednost za onemogućavanje sustava preporuke."
+
+msgid "Withdraw point of order"
+msgstr "Povući tačku"
+
+msgid "Workflow"
+msgstr "Tijek rada"
+
+msgid "Workflow of new amendments"
+msgstr "Tijek rada novih amandmana"
+
+msgid "Workflow of new motions"
+msgstr "Tijek rada novih prijedloga-zahtjeva"
+
+msgid "Workflows"
+msgstr "Radni tokovi"
+
+msgid "Yes"
+msgstr "Da"
+
+msgid "Yes per candidate"
+msgstr "Da po kandidatu"
+
+msgid "Yes per option"
+msgstr "Da po opciji"
+
+msgid "Yes, delete"
+msgstr "Da, izbrisati"
+
+msgid "Yes, inclusive meetings"
+msgstr "Da, inkluzivni sastanci"
+
+msgid "Yes/No"
+msgstr "Da/Ne"
+
+msgid "Yes/No per candidate"
+msgstr "Da/Ne po kandidatu"
+
+msgid "Yes/No/Abstain"
+msgstr "Da/Ne/Suzdržan"
+
+msgid "Yes/No/Abstain per candidate"
+msgstr "Da/Ne/Suzdržan po kandidatu"
+
+msgid "Yes/No/Abstain per list"
+msgstr "Da/Ne/Suzdržan po listi"
+
+msgid ""
+"You are moving a file from a public folder into an not published folder. The"
+" file will not be accessible in meetings afterwards."
+msgstr ""
+"Premještate datoteku iz javne mape u neobjavljenu mapu.Datoteka neće biti "
+"dostupna na sastancima nakon toga."
+
+msgid ""
+"You are moving an unpublished file to a public folder. The file will be "
+"accessible in ALL meetings afterwards."
+msgstr ""
+"Pomičite neobjavljenu datoteku u javnu mapu.Datoteka će biti dostupna na "
+"svim sastancima nakon toga."
+
+msgid "You are not allowed to see all entitled users."
+msgstr "Nije vam dozvoljeno da vidite sve ovlaštene korisnike."
+
+msgid "You are not allowed to see the livestream"
+msgstr "Nije vam dozvoljeno da vidite livestream"
+
+msgid "You are not supposed to be here..."
+msgstr "Ne bi trebalo da budeš ovde ..."
+
+msgid "You are using an incompatible client version."
+msgstr "Koristite nekompatibilnu verziju klijenta."
+
+msgid "You can change this option only in the forwarding section."
+msgstr "Ovu opciju možete promijeniti samo u odjeljku za prosljeđivanje."
+
+msgid "You can not vote because this is an analog voting."
+msgstr "Ne možete glasati jer je ovo analogno glasanje."
+
+msgid "You can not vote right now because the voting has not yet started."
+msgstr "Trenutno ne možete glasati jer glasanje još nije započelo."
+
+msgid "You can only anonymize named polls."
+msgstr "Možete samo anonimizirati imenovane ankete."
+
+msgid ""
+"You cannot change the recommendation of motions in different workflows!"
+msgstr "Ne možete promijeniti preporuku prijedloga-zahtjeva u različitim tijelima rada!"
+
+msgid "You cannot delete the last workflow of a meeting."
+msgstr "Ne možete izbrisati zadnji tijek rada sastanka."
+
+msgid ""
+"You cannot delete the workflow as long as it is selected as default workflow"
+" for new amendments in the settings. Please set another workflow as default "
+"in the settings and try to delete the workflow again."
+msgstr ""
+"Ne možete izbrisati tok rada sve dok je odabran kao zadani tok rada"
+" za nove izmjene u postavkama. Molimo postavite drugi tijek rada kao zadani "
+"u postavkama i pokušajte ponovo izbrisati tok rada."
+
+msgid ""
+"You cannot delete the workflow as long as it is selected as default workflow"
+" for new motions in the settings. Please set another workflow as default in "
+"the settings and try to delete the workflow again."
+msgstr ""
+"Ne možete izbrisati tijek rada sve dok je odabrano kao zadani rad za nove "
+"prijedloge-zahtjeve u postavkama.Molimo vas da postavite drugi tijek rada kao zadani "
+" u postavkama i pokušajte ponovo izbrisati tijek rada."
+
+msgid "You cannot delete yourself."
+msgstr "Ne možete se izbrisati."
+
+msgid ""
+"You cannot enter this meeting because you are not assigned to any group."
+msgstr "Ne možete ući u ovaj sastanak jer niste dodijeljeni nijednoj grupi."
+
+msgid "You cannot vote since your vote right is delegated."
+msgstr "Ne možete glasati jer vam je pravo glasa delegirano."
+
+msgid "You do not have the permission to vote."
+msgstr "Nemate dozvolu za glasanje."
+
+msgid "You have already voted."
+msgstr "Već ste glasali."
+
+msgid "You have to be logged in to be able to vote."
+msgstr "Morate biti prijavljeni da biste mogli glasati."
+
+msgid "You have to be present to add yourself."
+msgstr "Morate biti prisutni da se dodate."
+
+msgid "You have to be present to vote."
+msgstr "Morate biti prisutni da glasate."
+
+msgid "You have to enter at least one character"
+msgstr "Morate unijeti barem jedan karakter"
+
+msgid "You have to enter six hexadecimal digits"
+msgstr "Morate unijeti šest heksadecimalnih cifara"
+
+msgid "You have to fill this field."
+msgstr "Morate ispuniti ovo polje."
+
+msgid "You override the personally set password!"
+msgstr "Poništavate lično postavljenu lozinku!"
+
+msgid "You reached the maximum amount of votes. Deselect one option first."
+msgstr ""
+"Dostigli ste maksimalan broj glasova. Prvo poništite odabir jedne opcije."
+
+msgid "You reached the maximum amount of votes. Deselect somebody first."
+msgstr "Dosegli ste maksimalnu količinu glasova.Prvo poništite odabir nekoga."
+
+msgid ""
+"You will be logged out when you change your password. You must then log in "
+"with the new password."
+msgstr ""
+"Bićete odjavljeni kada promijenite lozinku. Zatim se morate prijaviti s novom "
+"lozinkom."
+
+msgid "You won!"
+msgstr "Pobedili ste!"
+
+msgid "Your browser"
+msgstr "Vaš pretraživač"
+
+msgid "Your browser is not supported by OpenSlides!"
+msgstr "Vaš pretraživač ne podržava E-Sjednice!"
+
+msgid "Your decision cannot be changed afterwards."
+msgstr "Vaša odluka se ne može promijeniti nakon toga."
+
+msgid "Your device has no microphone"
+msgstr "Vaš uređaj nema mikrofon"
+
+msgid "Your input does not match the following structure: \"hh:mm\""
+msgstr "Vaš unos ne odgovara sljedećoj strukturi: \"hh:mm\""
+
+msgid "Your opponent couldn't stand it anymore... You are the winner!"
+msgstr "Vaš protivnik to više nije mogao izdržati ... Vi ste pobednik!"
+
+msgid "Your opponent has won!"
+msgstr "Vaš protivnik je pobedio!"
+
+msgid "Your password has been reset successfully!"
+msgstr "Vaša lozinka je uspješno resetirana!"
+
+msgid "Your votes"
+msgstr "Vaši glasovi"
+
+msgid "Your voting right was delegated to another person."
+msgstr "Vaše pravo glasanja  je delegirano na drugu osobu."
+
+msgid "Zoom in"
+msgstr "Zumirati"
+
+msgid "Zoom out"
+msgstr "Umanjiti"
+
+msgid "[Begin speech] starts the countdown, [End speech] stops the countdown."
+msgstr ""
+"[Početak govora] započinje odbrojavanje, [Kraj govora] zaustavlja "
+"odbrojavanje."
+
+msgid "[Place for your welcome and help text.]"
+msgstr "[Mjesto za unos tekst zavašu dobrodošlicu i pomoć.]"
+
+msgid "absent"
+msgstr "odsutan"
+
+msgid "account-example"
+msgstr "primjer računa"
+
+msgid "active"
+msgstr "aktivan"
+
+msgid "add group(s)"
+msgstr "Dodajte grupu(e)"
+
+msgid "already exists"
+msgstr "već postoji"
+
+msgid "amendment"
+msgstr "amandman"
+
+msgid "amendments"
+msgstr "amandmani"
+
+msgid "analog"
+msgstr "analogno"
+
+msgid "and"
+msgstr "i"
+
+msgid "anonymized"
+msgstr "anonimizirano"
+
+msgid "are required"
+msgstr "su obavezni"
+
+msgid "ballot-paper"
+msgstr "glasački listić"
+
+msgid "by"
+msgstr "od"
+
+msgid "challenged you to a chess match!"
+msgstr "izazvao te na šahovsku partiju!"
+
+msgid "change recommendation"
+msgstr "Promijenite preporuku"
+
+msgid "change recommendation(s) refer to a nonexistent line number."
+msgstr "Preporuka(e) za promjenu odnose se na nepostojeći broj linije."
+
+msgid "change recommendations"
+msgstr "Promijenite preporuke"
+
+msgid "committee name"
+msgstr "Naziv odbora"
+
+msgid "committee-example"
+msgstr "Primjer odbora"
+
+msgid "connecting ..."
+msgstr "Povezivanje ..."
+
+msgid "connections"
+msgstr "veza"
+
+msgid "contribution"
+msgstr "doprinos"
+
+msgid "could not be created"
+msgstr "nije se moglo kreirati"
+
+msgid "created"
+msgstr "stvoren"
+
+msgid "custom"
+msgstr "prilagođeno"
+
+msgid "dateless"
+msgstr "bez datuma"
+
+msgid "delete"
+msgstr "obriši"
+
+msgid "deleted"
+msgstr "izbrisan"
+
+msgid "disabled"
+msgstr "onemogućeno"
+
+msgid "disconnected"
+msgstr "nepovezan"
+
+msgid "diverse"
+msgstr "raznovrstan"
+
+msgid "e.g. for online meetings"
+msgstr "npr za online sastanke"
+
+msgid "emails"
+msgstr "E-poruke"
+
+msgid "ended"
+msgstr "završio"
+
+msgid "example"
+msgstr "primer"
+
+msgid "external"
+msgstr "vanjski"
+
+msgid "female"
+msgstr "ženski"
+
+msgid "finished (unpublished)"
+msgstr "završeno (neobjavljeno)"
+
+msgid "from delegated votes"
+msgstr "Od delegiranih glasova"
+
+msgid "fullscreen"
+msgstr "puni ekran"
+
+msgid "future"
+msgstr "buduće"
+
+msgid "green"
+msgstr "zelen"
+
+msgid "grey"
+msgstr "siv"
+
+msgid "has been imported"
+msgstr "je uvezeno"
+
+msgid "has saved his work on this motion."
+msgstr "spasio je svoj rad na ovom amandmanu."
+
+msgid "have been created"
+msgstr "have been created"
+
+msgid "hidden"
+msgstr "skriven"
+
+msgid "inactive"
+msgstr "neaktivan"
+
+msgid "incl. subcommittees"
+msgstr "uklj. pododbore"
+
+msgid "inline"
+msgstr "inline"
+
+msgid "internal"
+msgstr "unutrašnji"
+
+msgid "is assigned to the following committees, meetings and groups"
+msgstr "dodjeljuje se sljedećim odborima, sastancima i grupama"
+
+msgid "is not assigned to any committees or meetings yet"
+msgstr "još nije dodijeljen nijednom odboru ili sastanku"
+
+msgid "is now"
+msgstr "je sada"
+
+msgid "is required"
+msgstr "je potrebno"
+
+msgid "items"
+msgstr "predmeti"
+
+msgid "items selected"
+msgstr "odabrane stavke"
+
+msgid "last updated"
+msgstr "zadnji put ažurirano"
+
+msgid "lightblue"
+msgstr "Lightblue"
+
+msgid "locked out"
+msgstr "zaključan"
+
+msgid "logged-in users"
+msgstr "Prijavljeni korisnici"
+
+msgid "long running"
+msgstr "dugo pokrenuto"
+
+msgid "majority"
+msgstr "većina"
+
+msgid "male"
+msgstr "muško"
+
+msgid "mark amendments as original"
+msgstr "Označite amandmane kao originalne"
+
+msgid "max. 32 characters allowed"
+msgstr "Maks.32 znaka dozvoljene"
+
+msgid "modified"
+msgstr "izmijenjen"
+
+msgid "motions"
+msgstr "amandmani"
+
+msgid "move ..."
+msgstr "pomakni ..."
+
+msgid "natural person"
+msgstr "fizička osoba"
+
+msgid "no natural person"
+msgstr "nije fizička osoba"
+
+msgid "nominal"
+msgstr "nominalni"
+
+msgid "nominal (anonymized)"
+msgstr "nominalno (anonimizirano)"
+
+msgid "non-binary"
+msgstr "ne-binarni"
+
+msgid "non-nominal"
+msgstr "ne-nominalni"
+
+msgid "none"
+msgstr "nijedan"
+
+msgid "not external"
+msgstr "nije vanjski"
+
+msgid "not specified"
+msgstr "nije navedeno"
+
+msgid "of"
+msgstr "od"
+
+msgid "of which"
+msgstr "od kojih"
+
+msgid "of which %num% not permissable"
+msgstr "od čega %num% nije dozvoljeno"
+
+msgid "open votes"
+msgstr "otvorena glasanja"
+
+msgid "or"
+msgstr "ili"
+
+msgid "original identifier"
+msgstr "originalni identifikator"
+
+msgid "original submitter"
+msgstr "originalni podnosilac"
+
+msgid "outside"
+msgstr "vani"
+
+msgid "partially forwarded"
+msgstr "djelomično proslijeđen"
+
+msgid "participants"
+msgstr "učesnici"
+
+msgid "participants-example"
+msgstr "primjer učesnika"
+
+msgid "present"
+msgstr "prisutan"
+
+msgid "public"
+msgstr "javni"
+
+msgid "published"
+msgstr "objavljen"
+
+msgid "red"
+msgstr "crven"
+
+msgid "remove"
+msgstr "ukloniti"
+
+msgid "remove group(s)"
+msgstr "uklonite grupu"
+
+msgid "removed user"
+msgstr "uklonjen korisnik"
+
+msgid "represented by"
+msgstr "zastupljen od"
+
+msgid "represented by old account of"
+msgstr "predstavljen starim računom"
+
+msgid "reset"
+msgstr "resetiranje"
+
+msgid "selected"
+msgstr "odabrano"
+
+msgid "short running"
+msgstr "kratko pokrenuto"
+
+msgid "started"
+msgstr "započeto"
+
+msgid "stopped"
+msgstr "zaustavljeno"
+
+msgid "successfully forwarded"
+msgstr "uspješno proslijeđen"
+
+msgid "supporters"
+msgstr "pristalice"
+
+msgid "to"
+msgstr "do"
+
+msgid "today"
+msgstr "danas"
+
+msgid "total"
+msgstr "ukupno"
+
+msgid "undocumented"
+msgstr "nedokumentiran"
+
+msgid "updated"
+msgstr "ažuriran"
+
+msgid "version"
+msgstr "verzija"
+
+msgid "votes per candidate"
+msgstr "glasovi po kandidatu"
+
+msgid "votes per option"
+msgstr "glasovi po opciji"
+
+msgid "was"
+msgstr "bio"
+
+msgid "were"
+msgstr "bili"
+
+msgid "will be created"
+msgstr "biće stvoreno"
+
+msgid "will be imported"
+msgstr "će se uvesti"
+
+msgid "will be updated"
+msgstr "će biti ažurirano"
+
+msgid "with"
+msgstr "sa"
+
+msgid "without identifier"
+msgstr "bez identifikatora"
+
+msgid "yellow"
+msgstr "žuti"
+
+msgid "{{amount}} interposed questions will be cleared"
+msgstr "{{amount}} umetnuta pitanja će biti obrisana"
+
+msgid "{{amount}} of them will be saved with 'unknown' speaker"
+msgstr "{{amount}} od njih će biti spremljeni kao 'unknown' govornik"
+
+msgid "{{amount}} will be saved"
+msgstr "{{amount}} biće sačuvani"
+
+msgid "Acceptance"
+msgstr "Prihvatanje"
+
+msgid "Adjournment"
+msgstr "Odgoda"
+
+msgid "Admin"
+msgstr "Administrator"
+
+msgid "Complex Workflow"
+msgstr "Složeni tijek rada"
+
+#, python-brace-format
+msgid ""
+"Dear {name},\n"
+"\n"
+"this is your personal OpenSlides login:\n"
+"\n"
+"{url}\n"
+"Username: {username}\n"
+"Password: {password}\n"
+"\n"
+"\n"
+"This email was generated automatically."
+msgstr ""
+"Poštovani {name},\n"
+"\n"
+"Ovo je vaš lični E-Sjednice Login:\n"
+"\n"
+"{url}\n"
+"Korisničko ime: {username}\n"
+"Lozinka: {password}\n"
+"\n"
+"\n"
+"Ova e-pošta je generirana automatski."
+
+msgid "Default projector"
+msgstr "Zadani projektor"
+
+msgid "Delegates"
+msgstr "Delegati"
+
+msgid "No concernment"
+msgstr "Nema zabrinutosti"
+
+msgid "No decision"
+msgstr "Nema odluke"
+
+msgid "Presentation and assembly system"
+msgstr "Sistem prezentacije i montaže"
+
+msgid "Referral to"
+msgstr "Preporuka"
+
+msgid "Rejection"
+msgstr "Odbacivanje"
+
+msgid "Reset your OpenSlides password"
+msgstr "Obnovite lozinku za E-Sjednice"
+
+msgid "Simple Workflow"
+msgstr "Jednostavan tijek rada"
+
+msgid "Space for your welcome text."
+msgstr "Prostor za vaš tekst dobrodošlice."
+
+msgid "Speaking time"
+msgstr "Vrijeme govora"
+
+msgid "Staff"
+msgstr "Osoblje"
+
+#, python-brace-format
+msgid ""
+"You are receiving this email because you have requested a new password for your OpenSlides account.\n"
+"\n"
+"Please open the following link and choose a new password:\n"
+"{url}/login/forget-password-confirm?user_id={user_id}&token={token}\n"
+"\n"
+"The link will be valid for 10 minutes."
+msgstr ""
+"Primate ovu e-poštu jer ste zatražili novu lozinku za vaš E-Sjednice račun.\n"
+"\n"
+"Otvorite sljedeću vezu i odaberite novu lozinku:\n"
+"{url}/login/forget-password-confirm?user_id={user_id}&token={token}\n"
+"\n"
+"Veza će važiti 10 minuta."
+
+msgid "accepted"
+msgstr "prihvaćen"
+
+msgid "adjourned"
+msgstr "odgođen"
+
+msgid "in progress"
+msgstr "u toku"
+
+msgid "name"
+msgstr "ime"
+
+msgid "not concerned"
+msgstr "ne zabrinut"
+
+msgid "not decided"
+msgstr "nije odlučeno"
+
+msgid "not permitted"
+msgstr "nije dozvoljeno"
+
+msgid "permitted"
+msgstr "dozvoljen"
+
+msgid "referred to"
+msgstr "na koga se odnosilo"
+
+msgid "rejected"
+msgstr "odbijen"
+
+msgid "submitted"
+msgstr "dostavljen"
+
+msgid "withdrawn"
+msgstr "povučen"
